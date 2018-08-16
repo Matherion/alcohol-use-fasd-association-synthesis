@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="net">
+      <map/>
+      <node name="sf">
+        <map/>
+        <node name="jabref">
+          <map>
+            <entry key="memoryStickMode" value="true"/>
+            <entry key="windowMaximised" value="true"/>
+            <entry key="dialogWarningForDuplicateKey" value="false"/>
+            <entry key="dialogWarningForEmptyKey" value="false"/>
+            <entry key="useImportInspectionDialog" value="false"/>
+            <entry key="useImportInspectionDialogForSingle" value="false"/>
+            <entry key="enforceLegalBibtexKey" value="false"/>
+            <entry key="confirmDelete" value="true"/>
+            <entry key="allowTableEditing" value="false"/>
+            <entry key="timeStampFormat" value="yyyy.MM.dd"/>
+            <entry key="timeStampField" value="timestamp"/>
+            <entry key="allowTableEditing" value="true"/>
+            <entry key="defaultEncoding" value="UTF8"/>
+            <entry key="backup" value="true"/>
+            <entry key="autoSave" value="true"/>
+            <entry key="autoSaveInterval" value="5"/>
+            <entry key="defaultShowSource" value="false"/>
+            <entry key="autoComplete" value="true"/>
+            <entry key="autoCompleteFields" value="author;editor;title;journal;publisher;keywords;crossref;screenerestatus2"/>
+            <entry key="fileColumn" value="false"/>
+            <entry key="pdfColumn" value="false"/>
+            <entry key="urlColumn" value="false"/>
+            <entry key="citeseerColumn" value="false"/>
+            <entry key="arxivColumn" value="false"/>
+            <entry key="showSource" value="false"/>
+            <entry key="preview0" value="\begin{title} \format[HTMLChars]{\title} \end{title}&lt;BR&gt;"/>
+            <entry key="preview1" value="\begin{title} \format[HTMLChars]{\title} \end{title}&lt;BR&gt;"/>
+            <entry key="customTabName_0" value="Screening"/>
+            <entry key="customTabFields_0" value="title;abstract;rq2_s1;screenerestatus2"/>
+            <entry key="columnNames" value="title;abstract;rq2_s1;screenerestatus2"/>
+            <entry key="columnWidths" value="333;333;333;100"/>
+            <entry key="numberColWidth" value="50"/>
+            <entry key="priSort" value="rq2_s1"/>
+            <entry key="priDescending" value="true"/>
+            <entry key="entryEditorHeight" value="600"/>
+            <entry key="previewPanelHeight" value="0"/>
+            <entry key="customTypeName_0" value="screening"/>
+            <entry key="customTypeReq_0" value=""/>
+            <entry key="customTypeOpt_0" value="title;abstract;rq2_s1"/>
+            <entry key="customTypePriOpt_0" value="title;abstract;rq2_s1"/>
+          </map>
+          <node name="labelPattern">
+            <map/>
+          </node>
+        </node>
+      </node>
+    </node>
+  </root>
+</preferences>

@@ -1,0 +1,105 @@
+                                           
+                                            ARBD diagnosis FAS diagnosis FAS, pFAS diagnosis FASD diagnosis pFAS diagnosis
+  Alcohol consumption before                             1             8                   0              5              3
+  Alcohol consumption during                             0             6                   3              7              1
+  Alcohol consumption first trimester                    1             7                   1              7              3
+  Alcohol consumption first trimester(BAC)               0             2                   0              0              2
+  Alcohol consumption second trimester                   0             7                   1              7              3
+  Alcohol consumption second trimester(BAC)              0             2                   0              0              2
+  Alcohol consumption third trimester                    1             7                   1              7              3
+  Alcohol consumption third trimester(BAC)               0             2                   0              0              2
+  Binge during                                           0             1                   0              3              1
+  Smoking and alcohol consumption during                 0             1                   0              1              1
+  Smoking and binge drinking during                      0             0                   0              2              0
+  Smoking before                                         0             3                   0              1              1
+  Smoking during                                         0             8                   2              2              1
+  Smoking first trimester                                0             4                   0              0              1
+  Smoking second trimester                               0             3                   0              0              0
+  Smoking third trimester                                0             4                   0              0              1
+
+
+
+$`ARBD diagnosis`
+$`ARBD diagnosis`$logical
+list()
+
+$`ARBD diagnosis`$nominal
+list()
+
+$`ARBD diagnosis`$numeric
+list()
+
+$`ARBD diagnosis`$ordinal
+list()
+
+
+$`ARND diagnosis`
+$`ARND diagnosis`$logical
+list()
+
+$`ARND diagnosis`$nominal
+list()
+
+$`ARND diagnosis`$numeric
+list()
+
+$`ARND diagnosis`$ordinal
+list()
+
+
+$`FAS diagnosis`
+$`FAS diagnosis`$logical
+list()
+
+$`FAS diagnosis`$nominal
+list()
+
+$`FAS diagnosis`$numeric
+list()
+
+$`FAS diagnosis`$ordinal
+list()
+
+
+$`FAS, pFAS diagnosis`
+$`FAS, pFAS diagnosis`$logical
+list()
+
+$`FAS, pFAS diagnosis`$nominal
+list()
+
+$`FAS, pFAS diagnosis`$numeric
+list()
+
+$`FAS, pFAS diagnosis`$ordinal
+list()
+
+
+$`FASD diagnosis`
+$`FASD diagnosis`$logical
+list()
+
+$`FASD diagnosis`$nominal
+list()
+
+$`FASD diagnosis`$numeric
+list()
+
+$`FASD diagnosis`$ordinal
+list()
+
+
+$`pFAS diagnosis`
+$`pFAS diagnosis`$logical
+list()
+
+$`pFAS diagnosis`$nominal
+list()
+
+$`pFAS diagnosis`$numeric
+list()
+
+$`pFAS diagnosis`$ordinal
+list()
+
+
