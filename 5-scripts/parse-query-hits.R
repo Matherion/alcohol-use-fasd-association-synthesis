@@ -166,3 +166,49 @@ sysrevExport(tmp,
              filename=file.path(screeningPath, "rq2_screening3_combined.bibtex"),
              screeningType="screening");
 
+#######################################################################################################################
+### Count exclusions and inclusions
+#######################################################################################################################
+
+tmp$records[, c('rq2_s1', 'rq2_s2', 'Rq2_s3')]
+
+sink(file.path(screeningPath, "screening-overview.txt"));
+
+cat("\n# Screening details\n");
+cat("Please see the file 'Instructions data synthesis FASD & Behaviour.docx' (the screener instructions)",
+    "for more details as to the screening procedure as well as for the meaning of the codes used to document screener decisions.\n\n");
+
+cat("\n# Screening sweep 1: titles only\n\n");
+
+cat("\nFinal in and exclusions after integration of screeners' decisions\n\n");
+freq(tmp$records$rq2_s1);
+
+cat("\nReasons for excluding articles for screener S\n\n");
+freq(tmp$records$rq2_s1_s);
+
+cat("\nReasons for excluding articles for screener E\n\n");
+freq(tmp$records$rq2_s1_e);
+
+cat("\n\n# Screening sweep 2: titles and abstracts\n");
+
+cat("\nFinal in and exclusions after integration of screeners' decisions\n\n");
+freq(tmp$records$rq2_s2);
+
+cat("\nReasons for excluding articles for screener S\n\n");
+freq(tmp$records$screenersstatus2);
+
+cat("\nReasons for excluding articles for screener E\n\n");
+freq(tmp$records$screenerestatus2);
+
+cat("\n\n# Screening sweep 3: full texts\n\n");
+
+cat("\nFinal in and exclusions after integration of screeners' decisions\n");
+freq(tmp$records$Rq2_s3);
+
+cat("\nReasons for excluding articles for screener S\n\n");
+freq(tmp$records$rq2_s3_s);
+
+cat("\nReasons for excluding articles for screener E\n\n");
+freq(tmp$records$rq2_s3_e);
+
+sink();
