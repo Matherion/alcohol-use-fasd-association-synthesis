@@ -38,6 +38,7 @@ dfToString <- function(df, width = 300, ...) {
 ###########################################################################
 ###########################################################################
 
+sink(file.path(workingPath, 'processExtractedFiles-log.txt'));
 ### Process all extracted articles
 fasd_rq2_extraction <- processExtractedFiles(extractedArticlesPath,
                                              allowedValues.variable = c("variable",
@@ -71,6 +72,8 @@ fasd_rq2_extraction <- processExtractedFiles(extractedArticlesPath,
                                                                         'nrOfUnitsInUnit',
                                                                         'calculatedunitUnits',
                                                                         'calculatednrOfUnitsInUnit'));
+
+sink();
 
 ### List all dichotomous behavior measures
 fasd_rq2_extraction$output$variable[(fasd_rq2_extraction$output$variable$datatype=='logical' &
@@ -885,9 +888,9 @@ univariateToAssociation <- function(uni, var, subsamples,
               if (!silent) cat0("\n\nExtracted data:\n");
               if (!silent) print(tmpDat);
 
-              sampleSizes <- ifelse(is.na(tmpDat[, 'n']),
-                                   tmpDat[, 'size'],
-                                   tmpDat[, 'n']);
+              sampleSizes <- ifelse(any(is.na(tmpDat[, 'n'])),
+                                    tmpDat[, 'size'],
+                                    tmpDat[, 'n']);
 
               if (any(is.na(sampleSizes))) {
                 sampleSize <- NULL;
@@ -896,10 +899,23 @@ univariateToAssociation <- function(uni, var, subsamples,
               if (any(is.na(tmpDat[, 'sd'])) || any(is.na(tmpDat[, 'mean']))) {
                 if (!silent) cat0("\nError: either one or both mean(s) or ",
                                   "standard deviation(s) are missing.\n");
-              } else {
+              } else if ((length(tmpDat[, 'mean']) == 2) &&
+                         (length(tmpDat[, 'sd']) == 2) &&
+                         (length(sampleSizes) == 2)) {
                 cohensDvalue <- convert.means.to.d(means = tmpDat[, 'mean'],
                                                    sds = tmpDat[, 'sd'],
                                                    ns = sampleSizes);
+                if (length(cohensDvalue) > 1) {
+                  stop("The length of 'cohensDvalue' is more than 1! The ",
+                       "input was:\n",
+                       "  ", vecTxtQ(tmpDat[, 'mean']), "\n",
+                       "  ", vecTxtQ(tmpDat[, 'sd']), "\n",
+                       "  ", vecTxtQ(sampleSizes), "\n",
+                       "\nThe study is '",
+                       currentStudy,
+                       "' and the relevant subsamples are: ",
+                       vecTxtQ(relevantSubSamples));
+                }
                 thisRowIndex <- nrow(res) + 1;
                 res[thisRowIndex, 'study'] <- currentStudy;
                 res[thisRowIndex, 'variable1'] <- currentIndependentVariable;
@@ -2011,6 +2027,7 @@ studyQualityDat <- c(Cannon2012.r = 4,
                      May2013e.r = 7,
                      May2014.r = 7,
                      May2014a.r = 7,
+                     May2017.r = 7,
                      Miller1995a.r = 7,
                      Petkovic2013a.r = 7,
                      Suttie2013a.r = 5,
@@ -2138,24 +2155,24 @@ fasd_rq2_extraction$output$univariate$dataCollectionMethod <-
 
 ### NOS vs. diagnosisMethod
 ggplot(fasd_rq2_extraction$output$univariate, aes(x=diagnosisMethod, y=NOS, color=datatype)) +
-theme_bw() +
-geom_jitter(alpha=.25, size=3, na.rm=TRUE) +
-geom_smooth(method='lm', se=FALSE, na.rm=TRUE);
+  theme_bw() +
+  geom_jitter(alpha=.25, size=3, na.rm=TRUE) +
+  geom_smooth(method='lm', se=FALSE, na.rm=TRUE);
 
 ### NOS vs. caseascertainment
 
 ggplot(fasd_rq2_extraction$output$univariate, aes(x=caseascertainment, y=NOS, color=datatype)) +
-theme_bw() +
-geom_jitter(alpha=.25, size=3, na.rm=TRUE) +
-geom_smooth(method='lm', se=FALSE, na.rm=TRUE);
+  theme_bw() +
+  geom_jitter(alpha=.25, size=3, na.rm=TRUE) +
+  geom_smooth(method='lm', se=FALSE, na.rm=TRUE);
 
 
 ### NOS vs. datacollectionMethod
 
 ggplot(fasd_rq2_extraction$output$univariate, aes(x=dataCollectionMethod, y=NOS, color=datatype)) +
-theme_bw() +
-geom_jitter(alpha=.25, size=3, na.rm=TRUE) +
-geom_smooth(method='lm', se=FALSE, na.rm=TRUE);
+  theme_bw() +
+  geom_jitter(alpha=.25, size=3, na.rm=TRUE) +
+  geom_smooth(method='lm', se=FALSE, na.rm=TRUE);
 
 
 

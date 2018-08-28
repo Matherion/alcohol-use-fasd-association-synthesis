@@ -1,0 +1,635 @@
+1. 
+TY  - JOUR
+ID  - 623347208
+T1  - Alcohol-Related Alterations in Placental Imprinted Gene Expression in Humans Mediate Effects of Prenatal Alcohol Exposure on Postnatal Growth
+A1  - Carter R.C.
+A1  - Chen J.
+A1  - Li Q.
+A1  - Deyssenroth M.
+A1  - Dodge N.C.
+A1  - Wainwright H.C.
+A1  - Molteno C.D.
+A1  - Meintjes E.M.
+A1  - Jacobson J.L.
+A1  - Jacobson S.W. 
+AO  - Carter, R. Colin; ORCID: http://orcid.org/0000-0003-1554-6914
+AO  - Jacobson, Sandra W.; ORCID: http://orcid.org/0000-0002-9768-2671
+Y1  - 2018//
+N2  - Background: A growing body of evidence in animal models has implicated alcohol-induced alterations in epigenetic programming as an important mechanism in fetal alcohol spectrum disorders (FASD). Imprinted genes, a subset of epigenetically regulated genes that are sensitive to the prenatal environment, are chiefly involved in growth and neurobehavior. We tested the hypothesis that alterations in placental imprinted gene expression mediate fetal alcohol growth restriction. Methods: Placental expression of 109 genes previously shown to be imprinted and expressed in the placenta was assessed using the NanoStringTM nCounter Analysis System in flash-frozen samples from 34 heavy drinkers and 31 control women in Cape Town, South Africa, from whom prospective pregnancy alcohol consumption data had been obtained. Length/height, weight, and head circumference were measured at 6.5 and 12 months and at an FASD diagnostic clinic (at ages 1.1 to 4.6 years) that we organized. Imprinted gene expression between exposed and control placentas was compared using the limma R package. The relation of alcohol exposure to World Health Organization length-for-age z-scores was examined before and after inclusion of expression for each alcohol-related imprinted gene, using hierarchical mixed regression models with repeated measures. Results: Heavy drinkers averaged 8 standard drinks on 2 to 3 days/wk (vs. 0 for controls). Prenatal alcohol exposure was associated with smaller length/height and weight during the postnatal period. Heavy exposure was related to alterations in expression of 11 of 93 expressed imprinted genes, including increased expression of 5 genes found to be negatively associated with growth and decreased expression of 3 genes positively associated with growth. Alcohol-related alterations in expression of 5 genes statistically mediated the effect of prenatal alcohol exposure on length. Conclusions: These findings identify alcohol-related alterations in placental imprinted gene expression as potential biomarkers of adverse effect in FASD and suggest that these alterations may play a mechanistic role in fetal alcohol growth restriction. Future studies are needed to determine whether alterations in imprinted gene expression also mediate FASD neurobehavioral deficits and whether such alterations are amenable to intervention.Copyright © 2018 by the Research Society on Alcoholism
+KW  - adult
+KW  - *alcohol consumption
+KW  - article
+KW  - binge drinking
+KW  - body height
+KW  - body weight
+KW  - cigarette smoking
+KW  - cohort analysis
+KW  - controlled study
+KW  - drug use
+KW  - female
+KW  - *fetal alcohol syndrome
+KW  - fetus growth
+KW  - gene
+KW  - gene expression
+KW  - genome imprinting
+KW  - head circumference
+KW  - human
+KW  - longitudinal study
+KW  - major clinical study
+KW  - male
+KW  - *maternal behavior
+KW  - newborn
+KW  - perinatal period
+KW  - placenta
+KW  - *postnatal growth
+KW  - *prenatal exposure
+KW  - priority journal
+KW  - prospective study
+KW  - smoking
+KW  - BLCAP gene
+KW  - CCNE1 gene
+KW  - COPG2IT1 gene
+KW  - DHCR24 gene
+KW  - HYMAI gene
+KW  - Igf2 gene
+KW  - IGF2AS gene
+KW  - nnat gene
+KW  - PEG10 gene
+KW  - ZIM2 gene
+KW  - ZNF264 gene
+JF  - Alcoholism: Clinical and Experimental Research
+JA  - Alcohol. Clin. Exp. Res.
+VL  - 42
+IS  - 8
+SP  - 1431
+EP  - 1443
+CY  - United Kingdom
+PB  - Blackwell Publishing Ltd
+SN  - 0145-6008
+SN  - 1530-0277
+AD  - R.C. Carter, Division of Pediatric Emergency Medicine and Institute for Human Nutrition, Columbia University Medical Center, New York, NY, United States. E-mail: rcc2142@columbia.edu
+M1  - (Carter) Division of Pediatric Emergency Medicine and Institute for Human Nutrition, Columbia University Medical Center, New York, NY, United States
+M1  - (Chen, Li, Deyssenroth) Department of Environmental Medicine and Public Health, Icahn School of Medicine at Mount Sinai, New York, NY, United States
+M1  - (Dodge, Jacobson, Jacobson) Department of Psychiatry and Behavioral Neurosciences, Wayne State University School of Medicine, Detroit, MI, United States
+M1  - (Wainwright, Molteno, Meintjes, Jacobson, Jacobson) National Health Laboratory Service, Groote Schuur Hospital, Cape Town, South Africa
+M1  - (Molteno, Meintjes, Jacobson, Jacobson) the Departments of Human Biology and of Psychiatry and Mental Health, University of Cape Town Faculty of Health Sciences, Cape Town, South Africa
+UR  - http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1530-0277
+DO  - http://dx.doi.org/10.1111/acer.13808
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=623347208
+ER  -  
+
+Link to the Ovid Full Text or citation: http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emexb&AN=623347208Link to the External Link Resolver: https://maastrichtuniversity.on.worldcat.org/atoztitles/link?sid=OVID:embase&id=pmid:&id=doi:10.1111%2Facer.13808&issn=0145-6008&isbn=&volume=42&issue=8&spage=1431&pages=1431-1443&date=2018&title=Alcoholism%3A+Clinical+and+Experimental+Research&atitle=Alcohol-Related+Alterations+in+Placental+Imprinted+Gene+Expression+in+Humans+Mediate+Effects+of+Prenatal+Alcohol+Exposure+on+Postnatal+Growth&aulast=Carter&pid=%3Cauthor%3ECarter+R.C.%3BChen+J.%3BLi+Q.%3BDeyssenroth+M.%3BDodge+N.C.%3BWainwright+H.C.%3BMolteno+C.D.%3BMeintjes+E.M.%3BJacobson+J.L.%3BJacobson+S.W.%3C%2Fauthor%3E%3CAN%3E623347208%3C%2FAN%3E%3CDT%3EArticle%3C%2FDT%3E 
+
+2. 
+TY  - JOUR
+ID  - 619775771
+T1  - Prenatal alcohol exposure is a risk factor for adult neuropathic pain via aberrant neuroimmune function
+A1  - Sanchez J.J.
+A1  - Noor S.
+A1  - Davies S.
+A1  - Savage D.
+A1  - Milligan E.D. 
+Y1  - 2017//
+N2  - Background: Clinical studies show that prenatal alcohol exposure (PAE) results in effects that persist into adulthood. Experimental animal models of moderate PAE demonstrate that young adults with PAE display potentiated sensitivity to light touch, clinically termed allodynia, following sciatic nerve chronic constriction injury (CCI) that coincides with heightened spinal glial, spinal macrophage, and peripheral immune responses. However, basal touch sensitivity and corresponding glial and leukocyte activation are unaltered. Therefore, the current study explored whether the enduring pathological consequences of moderate PAE on sensory processing are unmasked only following secondary neural insult. Methods: In middle-aged (1 year) Long Evans rats that underwent either prenatal saccharin exposure (control) or moderate PAE, we modified the well-characterized model of sciatic neuropathy, CCI, to study the effects of PAE on neuro-immune responses in adult offspring. Standard CCI manipulation required 4 chromic gut sutures, while a mild version applied a single suture loosely ligated around one sciatic nerve. Spinal glial immunoreactivity was examined using immunohistochemistry. The characterization and functional responses of leukocyte populations were studied using flow cytometry and cell stimulation assays followed by quantification of the proinflammatory cytokines interleukin-1beta (IL-1beta) and tumor necrosis factor-alpha (TNF-alpha). Data were statistically analyzed by ANOVA and unpaired t tests. Results: The current report demonstrates that mild CCI generates robust allodynia only in PAE rats, while the pathological effects of PAE following the application of a standard CCI are revealed by enhanced allodynia and elevated spinal glial activation. Additionally, mild CCI increases spinal astrocyte activation but not microglia, suggesting astrocytes play a larger role in PAE-induced susceptibility to aberrant sensory processing. Leukocyte populations from PAE are altered under basal conditions (i.e., prior to secondary insult), as the distribution of leukocyte populations in lymphoid organs and other regions are different from those of controls. Lastly, following in vitro leukocyte stimulation, only PAE augments the immune response to antigen stimulation as assessed by heightened production of TNF-alpha and IL-1beta. Conclusions: These studies demonstrate PAE may prime spinal astrocytes and peripheral leukocytes that contribute to enduring susceptibility to adult-onset neuropathic pain that is not apparent until a secondary insult later in life.Copyright © 2017 The Author(s).
+KW  - adult
+KW  - adulthood
+KW  - allodynia
+KW  - animal cell
+KW  - animal experiment
+KW  - animal model
+KW  - animal tissue
+KW  - article
+KW  - cell activation
+KW  - cell population
+KW  - cell stimulation
+KW  - controlled study
+KW  - cytokine production
+KW  - female
+KW  - flow cytometry
+KW  - glia
+KW  - immune response
+KW  - immunohistochemistry
+KW  - immunoreactivity
+KW  - immunostimulation
+KW  - leukocyte function
+KW  - male
+KW  - middle aged
+KW  - nerve injury
+KW  - *neuroimmunology
+KW  - nonhuman
+KW  - onset age
+KW  - *prenatal exposure
+KW  - quantitative analysis
+KW  - rat
+KW  - *risk factor
+KW  - *sciatic neuropathy
+KW  - interleukin 1beta/ec [Endogenous Compound]
+KW  - tumor necrosis factor/ec [Endogenous Compound]
+KW  - *prenatal alcohol exposure
+JF  - Journal of Neuroinflammation
+JA  - J. Neuroinflamm.
+VL  - 14
+IS  - 1
+SP  - 254
+CY  - United Kingdom
+PB  - BioMed Central Ltd. (E-mail: info@biomedcentral.com)
+SN  - 1742-2094
+AD  - E.D. Milligan, University of New Mexico Health Sciences Center, Department of Neurosciences, School of Medicine, Albuquerque, NM 87131-0001, United States. E-mail: EMilligan@salud.unm.edu
+M1  - (Sanchez, Noor, Davies, Savage, Milligan) University of New Mexico Health Sciences Center, Department of Neurosciences, School of Medicine, Albuquerque, NM 87131-0001, United States
+M1  - (Milligan) University of New Mexico Health Sciences Center, Department of Anesthesiology and Critical Care Medicine, MSC08 4740, Albuquerque, NM 87131-001, United States
+UR  - http://www.jneuroinflammation.com/home/
+DO  - http://dx.doi.org/10.1186/s12974-017-1030-3
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=619775771
+ER  -  
+
+Link to the Ovid Full Text or citation: http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emexb&AN=619775771Link to the External Link Resolver: https://maastrichtuniversity.on.worldcat.org/atoztitles/link?sid=OVID:embase&id=pmid:29258553&id=doi:10.1186%2Fs12974-017-1030-3&issn=1742-2094&isbn=&volume=14&issue=1&spage=254&pages=&date=2017&title=Journal+of+Neuroinflammation&atitle=Prenatal+alcohol+exposure+is+a+risk+factor+for+adult+neuropathic+pain+via+aberrant+neuroimmune+function&aulast=Sanchez&pid=%3Cauthor%3ESanchez+J.J.%3BNoor+S.%3BDavies+S.%3BSavage+D.%3BMilligan+E.D.%3C%2Fauthor%3E%3CAN%3E619775771%3C%2FAN%3E%3CDT%3EArticle%3C%2FDT%3E 
+
+3. 
+TY  - JOUR
+ID  - 618555906
+T1  - Preserved cortical asymmetry despite thinner cortex in children and adolescents with prenatal alcohol exposure and associated conditions
+A1  - Zhou D.
+A1  - Rasmussen C.
+A1  - Pei J.
+A1  - Andrew G.
+A1  - Reynolds J.N.
+A1  - Beaulieu C. 
+AO  - Zhou, Dongming; ORCID: http://orcid.org/0000-0001-6744-1108
+Y1  - 2018//
+N2  - Prenatal alcohol exposure (PAE) is associated with reduced overall brain volume. Although this has been reported consistently across studies, the status of cortical thickness after PAE is more variable. The cortex is asymmetric in typical controls, but it is unclear whether the left and right counter parts of the cortical gray matter are unevenly influenced in postpartum brain development after PAE. Brain MRI was acquired in a newly recruited sample of 157 participants (PAE: N = 78, 5.5-18.9 years, 40 females and controls: N = 79, 5.8-18.5 years, 44 females) across four Canadian sites in the NeuroDevNet project. The PAE group had other confounds such as psychiatric co-morbidity, different living environment, and so on, not present in the control group. In agreement with previous studies, the volumes of all brain structures were reduced in PAE compared to controls, including gray and white matter of cerebrum and cerebellum, and all deep gray matter including the hippocampus, amygdala, thalamus, caudate, putamen, and pallidum. The PAE group showed reductions in global and regional cortical thickness, while the pattern and degree of cortical thickness asymmetry were preserved in PAE participants with the greatest rightward asymmetry in the lateral parietal lobe and the greatest leftward asymmetry in the lateral frontal cortex. This persistent asymmetry reflects that the homologous left and right cortical regions followed typical relative developmental patterns in the PAE group despite being thinner bilaterally than controls. Hum Brain Mapp 39:72-88, 2018. © 2017 Wiley Periodicals, Inc.
+KW  - adult
+KW  - amygdala
+KW  - article
+KW  - brain
+KW  - *brain asymmetry
+KW  - brain development
+KW  - brain size
+KW  - cerebellum
+KW  - child
+KW  - controlled study
+KW  - *cortical thickness (brain)
+KW  - dorsal striatum
+KW  - female
+KW  - frontal cortex
+KW  - globus pallidus
+KW  - gray matter
+KW  - hippocampus
+KW  - human
+KW  - male
+KW  - morbidity
+KW  - nuclear magnetic resonance imaging
+KW  - parietal lobe
+KW  - *prenatal exposure
+KW  - priority journal
+KW  - thalamus
+KW  - white matter
+KW  - *alcohol
+JF  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 39
+IS  - 1
+SP  - 72
+EP  - 88
+CY  - United States
+PB  - John Wiley and Sons Inc. (P.O.Box 18667, Newark NJ 07191-8667, United States)
+SN  - 1065-9471
+SN  - 1097-0193
+AD  - C. Beaulieu, Biomedical Engineering, University of Alberta, Edmonton, AB, Canada. E-mail: christian.beaulieu@ualberta.ca
+M1  - (Zhou) Environment and Health Research Centre, Southwest China Eco-development Academy, Southwest Forestry University, Kunming, Yunnan, China
+M1  - (Zhou, Beaulieu) Biomedical Engineering, University of Alberta, Edmonton, AB, Canada
+M1  - (Rasmussen) Pediatrics, University of Alberta, Edmonton, AB, Canada
+M1  - (Pei) Educational Psychology, University of Alberta, Edmonton, AB, Canada
+M1  - (Andrew) Glenrose Rehabilitation Hospital FASD Clinic, Edmonton, AB, Canada
+M1  - (Reynolds) Biomedical and Molecular Sciences, Queens University, Kingston, ON, Canada
+UR  - http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0193
+DO  - http://dx.doi.org/10.1002/hbm.23818
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=618555906
+ER  -  
+
+Link to the Ovid Full Text or citation: http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emexb&AN=618555906Link to the External Link Resolver: https://maastrichtuniversity.on.worldcat.org/atoztitles/link?sid=OVID:embase&id=pmid:28960637&id=doi:10.1002%2Fhbm.23818&issn=1065-9471&isbn=&volume=39&issue=1&spage=72&pages=72-88&date=2018&title=Human+Brain+Mapping&atitle=Preserved+cortical+asymmetry+despite+thinner+cortex+in+children+and+adolescents+with+prenatal+alcohol+exposure+and+associated+conditions&aulast=Zhou&pid=%3Cauthor%3EZhou+D.%3BRasmussen+C.%3BPei+J.%3BAndrew+G.%3BReynolds+J.N.%3BBeaulieu+C.%3C%2Fauthor%3E%3CAN%3E618555906%3C%2FAN%3E%3CDT%3EArticle%3C%2FDT%3E 
+
+4. 
+TY  - JOUR
+ID  - 623039309
+T1  - Time- and sex-dependent associations between prenatal alcohol exposure and placental global DNA methylation
+A1  - Loke Y.J.
+A1  - Muggli E.
+A1  - Nguyen L.
+A1  - Ryan J.
+A1  - Saffery R.
+A1  - Elliott E.J.
+A1  - Halliday J.
+A1  - Craig J.M. 
+Y1  - 2018//
+N2  - Aim: Epigenetic changes, in particular in the placenta, may mediate the effects of prenatal alcohol exposure (PAE) on children's health. We examined the relationship between PAE patterns, based on dose and timing, and placental global DNA methylation. Methods: Using linear regression analysis, we examined the association between different PAE categories and placental global DNA methylation (n = 187), using the proxy measure of Alu-interspersed repeats. Results: Following adjustment for important covariates, we found no evidence of an association between PAE and placental global DNA methylation overall. However, when stratifying by newborn sex, PAE throughout pregnancy was associated with higher placental global DNA methylation (1.5%; p = 0.01) of male newborns. Conclusion: PAE may have sex-specific effects on placental global DNA methylation if alcohol is consumed throughout pregnancy.Copyright © 2018 Future Medicine Ltd.
+KW  - adult
+KW  - *alcohol consumption
+KW  - Alu sequence
+KW  - article
+KW  - cohort analysis
+KW  - controlled study
+KW  - *DNA methylation
+KW  - female
+KW  - genetic association
+KW  - Genome-Wide Association Study
+KW  - human
+KW  - interspersed repeat
+KW  - major clinical study
+KW  - male
+KW  - newborn
+KW  - *placenta
+KW  - pregnancy
+KW  - pregnant woman
+KW  - *prenatal exposure
+KW  - priority journal
+KW  - *sex difference
+KW  - *alcohol
+KW  - *DNA/ec [Endogenous Compound]
+KW  - *prenatal alcohol exposure
+JF  - Epigenomics
+JA  - Epigenomics
+VL  - 10
+IS  - 7
+SP  - 981
+EP  - 991
+CY  - United Kingdom
+PB  - Future Medicine Ltd. (E-mail: info@futuremedicine.com)
+SN  - 1750-1911
+SN  - 1750-192X
+AD  - J.M. Craig, Environmental and Genetic Epidemiology Research, Murdoch Children's Research Institute, Royal Children's Hospital, Flemington Road, Parkville, VIC 3052, Australia. E-mail: jeffrey.craig@deakin.edu.au
+M1  - (Loke, Nguyen, Craig) Environmental and Genetic Epidemiology Research, Murdoch Children's Research Institute, Royal Children's Hospital, Flemington Road, Parkville, VIC 3052, Australia
+M1  - (Muggli, Halliday) Public Health Genetics, Murdoch Children's Research Institute, Royal Children's Hospital, Flemington Road, Parkville, VIC 3052, Australia
+M1  - (Muggli, Ryan, Saffery, Halliday, Craig) Department of Paediatrics, University of Melbourne, Parkville, VIC 3052, Australia
+M1  - (Ryan) Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, VIC 3004, Australia
+M1  - (Ryan, Saffery) Cancer and Disease Epigenetics, Murdoch Children's Research Institute, Royal Children's Hospital, Flemington Road, Parkville, VIC 3052, Australia
+M1  - (Elliott) Discipline of Child and Adolescent Health, School of Medicine and Health, University of Sydney, Sydney, NSW 2006, Australia
+M1  - (Elliott) Australian Paediatric Surveillance Unit, Sydney Childrens Hospitals Network, Sydney, NSW, Australia
+M1  - (Craig) Centre for Molecular and Medical Research, Deakin University, Geelong Waurn Ponds Campus, Locked Bag 20000, Geelong, VIC 3220, Australia
+UR  - http://www.futuremedicine.com/loi/epi
+DO  - http://dx.doi.org/10.2217/epi-2017-0147
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexa&NEWS=N&AN=623039309
+ER  -  
+
+Link to the Ovid Full Text or citation: http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emexa&AN=623039309Link to the External Link Resolver: https://maastrichtuniversity.on.worldcat.org/atoztitles/link?sid=OVID:embase&id=pmid:&id=doi:10.2217%2Fepi-2017-0147&issn=1750-1911&isbn=&volume=10&issue=7&spage=981&pages=981-991&date=2018&title=Epigenomics&atitle=Time-+and+sex-dependent+associations+between+prenatal+alcohol+exposure+and+placental+global+DNA+methylation&aulast=Loke&pid=%3Cauthor%3ELoke+Y.J.%3BMuggli+E.%3BNguyen+L.%3BRyan+J.%3BSaffery+R.%3BElliott+E.J.%3BHalliday+J.%3BCraig+J.M.%3C%2Fauthor%3E%3CAN%3E623039309%3C%2FAN%3E%3CDT%3EArticle%3C%2FDT%3E 
+
+5. 
+TY  - JOUR
+ID  - 622815306
+T1  - Prenatal alcohol exposure is associated with adverse cognitive effects and distinct whole-genome DNA methylation patterns in primary school children
+A1  - Frey S.
+A1  - Eichler A.
+A1  - Stonawski V.
+A1  - Kriebel J.
+A1  - Wahl S.
+A1  - Gallati S.
+A1  - Goecke T.W.
+A1  - Fasching P.A.
+A1  - Beckmann M.W.
+A1  - Kratz O.
+A1  - Moll G.H.
+A1  - Heinrich H.
+A1  - Kornhuber J.
+A1  - Golub Y. 
+Y1  - 2018//
+N2  - Prenatal alcohol exposure (PAE) is known to elicit a broad range of systemic effects, including neurophysiological alterations that result in adverse behavioral and cognitive outcomes. However, molecular pathways underlying these long-term intrauterine effects remain to be investigated. Here, we tested a hypothesis that PAE may lead to epigenetic alterations to the DNA resulting in attentional and cognitive alterations of the children. We report the results of the study that included 156 primary school children of the Franconian Cognition and Emotion Studies (FRANCES) cohort which were tested for an objective marker of PAE, ethyl glucuronide (EtG) in meconium at birth. Thirty-two newborns were found to be exposed to alcohol with EtG values above 30 ng/g (EtG+). Previously we described PAE being associated with lower IQ and smaller amplitude of the event-related potential component P3 in go trials (Go-P3), which indicates a reduced capacity of attentional resources. Whole-genome methylation analysis of the buccal cell DNA revealed 193 differentially methylated genes in children with positive meconium EtG, that were clustered into groups involved in epigenetic modifications, neurodegeneration, neurodevelopment, axon guidance and neuronal excitability. Furthermore, we detected mediation effects of the methylation changes in DPP10 and SLC16A9 genes on the EtG related cognitive and attention-related deficits. Our results suggest that system-wide epigenetic changes are involved in long-term effects of PAE. In particular, we show an epigenetic mediation of PAE effects on cognition and attention-related processes.Copyright © 2018 Frey, Eichler, Stonawski, Kriebel, Wahl, Gallati, Goecke, Fasching, Beckmann, Kratz, Moll, Heinrich, Kornhuber and Golub.
+KW  - article
+KW  - attention disturbance
+KW  - axon guidance
+KW  - cheek cell
+KW  - child
+KW  - clinical article
+KW  - *cognitive defect
+KW  - cohort analysis
+KW  - controlled study
+KW  - *DNA methylation
+KW  - epigenetics
+KW  - female
+KW  - gene
+KW  - human
+KW  - human cell
+KW  - intelligence quotient
+KW  - male
+KW  - meconium
+KW  - nerve cell differentiation
+KW  - nerve cell excitability
+KW  - nerve degeneration
+KW  - *prenatal exposure
+KW  - primary school
+KW  - school child
+KW  - *alcohol/to [Drug Toxicity]
+KW  - DNA/ec [Endogenous Compound]
+KW  - ethyl glucuronide/ec [Endogenous Compound]
+KW  - DPP10 gene
+KW  - SLC16A9 gene
+JF  - Frontiers in Behavioral Neuroscience
+JA  - Front. Behav. Neurosci.
+VL  - 12
+SP  - 125
+CY  - Switzerland
+PB  - Frontiers Media S.A. (E-mail: info@frontiersin.org)
+SN  - 1662-5153
+AD  - S. Frey, Department of Child and Adolescent Mental Health, University Hospital Erlangen, Friedrich-Alexander University Erlangen-Nurnberg, Erlangen, Germany. E-mail: stefan.frey@uk-erlangen.de
+M1  - (Frey, Eichler, Stonawski, Kratz, Moll, Heinrich, Golub) Department of Child and Adolescent Mental Health, University Hospital Erlangen, Friedrich-Alexander University Erlangen-Nurnberg, Erlangen, Germany
+M1  - (Kriebel, Wahl) Research Unit of Molecular Epidemiology, German Research Center for Environmental Health, Institute of Epidemiology II, Helmholtz Zentrum Munchen, Munich, Germany
+M1  - (Gallati) Division of Human Genetics, Department of Paediatrics, Inselspital University of Bern, Bern, Switzerland
+M1  - (Goecke) Department of Obstetrics and Gynecology, University Hospital Erlangen, Friedrich-Alexander University Erlangen-Nurnberg, Erlangen, Germany
+M1  - (Goecke, Fasching, Beckmann) Department of Obstetrics and Gynecology, RWTH Aachen University, Aachen, Germany
+M1  - (Heinrich) Kbo-Heckscher-Klinikum, Munich, Germany
+M1  - (Kornhuber) Department of Psychiatry and Psychotherapy, University Hospital Erlangen, Friedrich-Alexander University Erlangen-Nurnberg, Erlangen, Germany
+M1  - (Golub) Department of Child and Adolescent Psychiatry, Faculty of Medicine of the TU Dresden, Dresden, Germany
+UR  - https://www.frontiersin.org/articles/10.3389/fnbeh.2018.00125/pdf
+DO  - http://dx.doi.org/10.3389/fnbeh.2018.00125
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexa&NEWS=N&AN=622815306
+ER  -  
+
+Link to the Ovid Full Text or citation: http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emexa&AN=622815306Link to the External Link Resolver: https://maastrichtuniversity.on.worldcat.org/atoztitles/link?sid=OVID:embase&id=pmid:&id=doi:10.3389%2Ffnbeh.2018.00125&issn=1662-5153&isbn=&volume=12&issue=&spage=125&pages=&date=2018&title=Frontiers+in+Behavioral+Neuroscience&atitle=Prenatal+alcohol+exposure+is+associated+with+adverse+cognitive+effects+and+distinct+whole-genome+DNA+methylation+patterns+in+primary+school+children&aulast=Frey&pid=%3Cauthor%3EFrey+S.%3BEichler+A.%3BStonawski+V.%3BKriebel+J.%3BWahl+S.%3BGallati+S.%3BGoecke+T.W.%3BFasching+P.A.%3BBeckmann+M.W.%3BKratz+O.%3BMoll+G.H.%3BHeinrich+H.%3BKornhuber+J.%3BGolub+Y.%3C%2Fauthor%3E%3CAN%3E622815306%3C%2FAN%3E%3CDT%3EArticle%3C%2FDT%3E 
+
+6. 
+TY  - JOUR
+ID  - 618216204
+T1  - Prenatal Alcohol Exposure in Relation to Autism Spectrum Disorder: Findings from the Study to Explore Early Development (SEED)
+A1  - Singer A.B.
+A1  - Aylsworth A.S.
+A1  - Cordero C.
+A1  - Croen L.A.
+A1  - DiGuiseppi C.
+A1  - Fallin M.D.
+A1  - Herring A.H.
+A1  - Hooper S.R.
+A1  - Pretzel R.E.
+A1  - Schieve L.A.
+A1  - Windham G.C.
+A1  - Daniels J.L. 
+AO  - Singer, Alison B.; ORCID: http://orcid.org/0000-0002-8907-6620
+AO  - Cordero, Christina; ORCID: http://orcid.org/0000-0003-1032-5303
+Y1  - 2017//
+N2  - Background: Prenatal alcohol exposure can affect neurodevelopment, but few studies have examined associations with autism spectrum disorder (ASD). Methods: We assessed the association between maternal alcohol use and ASD in the Study to Explore Early Development, a multi-site case-control study of children born between September 2003 and August 2006 in the US Regression analyses included 684 children with research clinician-confirmed ASD, 869 children with non-ASD developmental delays or disorders (DDs), and 962 controls ascertained from the general population (POP). Maternal alcohol exposure during each month from 3 months prior to conception until delivery was assessed by self-report. Results: Mothers of POP children were more likely to report any prenatal alcohol use than mothers of children with ASD or DD. In trimester one, 21.2% of mothers of POP children reported alcohol use compared with 18.1% and 18.2% of mothers of children with ASD or DD, respectively (adjusted OR for ASD vs. POP 0.8, 95% confidence interval 0.6, 1.1). During preconception and the first month of pregnancy, one to two drinks on average per week was inversely associated with ASD risk. Conclusions: These results do not support an adverse association between low-level alcohol exposure and ASD, although these findings were based on retrospective self-reported alcohol use. Unmeasured confounding or exposure misclassification may explain inverse associations with one to two drinks per week. Pregnant or potentially pregnant women should continue to follow recommendations to avoid alcohol use because of other known effects on infant health and neurodevelopment.Copyright © 2017 John Wiley & Sons Ltd
+KW  - *alcohol consumption
+KW  - article
+KW  - *autism
+KW  - case control study
+KW  - child
+KW  - controlled study
+KW  - developmental delay
+KW  - developmental disorder
+KW  - disease association
+KW  - drinking behavior
+KW  - female
+KW  - first trimester pregnancy
+KW  - human
+KW  - major clinical study
+KW  - male
+KW  - maternal attitude
+KW  - *prenatal exposure
+KW  - risk factor
+JF  - Paediatric and Perinatal Epidemiology
+JA  - Paediatr. Perinat. Epidemiol.
+VL  - 31
+IS  - 6
+SP  - 573
+EP  - 582
+CY  - United Kingdom
+PB  - Blackwell Publishing Ltd
+SN  - 0269-5022
+SN  - 1365-3016
+AD  - A.B. Singer, Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC, United States. E-mail: alison_singer@unc.edu
+M1  - (Singer, Cordero, Daniels) Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC, United States
+M1  - (Aylsworth) Departments of Pediatrics and Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC, United States
+M1  - (Croen) Division of Research, Kaiser Permanente Northern California, Oakland, CA, United States
+M1  - (DiGuiseppi) Department of Epidemiology, Colorado School of Public Health, University of Colorado Anschutz Medical Campus, Aurora, CO, United States
+M1  - (Fallin) Department of Mental Health, Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD, United States
+M1  - (Fallin) Department of Epidemiology, Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD, United States
+M1  - (Fallin) The Wendy Klag Center for Autism and Developmental Disabilities, Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD, United States
+M1  - (Herring) Department of Biostatistics and Carolina Population Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, United States
+M1  - (Hooper) Department of Allied Health Sciences, University of North Carolina at Chapel Hill, Chapel Hill, NC, United States
+M1  - (Pretzel) Carolina Institute for Developmental Disabilities (CIDD), University of North Carolina at Chapel Hill, Chapel Hill, NC, United States
+M1  - (Schieve) National Center on Birth Defects and Developmental Disabilities, Centers for Disease Control and Prevention, Atlanta, GA, United States
+M1  - (Windham) Division of Environmental and Occupational Disease Control, CA Department of Public Health, Oakland, CA, United States
+UR  - http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3016
+DO  - http://dx.doi.org/10.1111/ppe.12404
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexa&NEWS=N&AN=618216204
+ER  -  
+
+Link to the Ovid Full Text or citation: http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emexa&AN=618216204Link to the External Link Resolver: https://maastrichtuniversity.on.worldcat.org/atoztitles/link?sid=OVID:embase&id=pmid:28881390&id=doi:10.1111%2Fppe.12404&issn=0269-5022&isbn=&volume=31&issue=6&spage=573&pages=573-582&date=2017&title=Paediatric+and+Perinatal+Epidemiology&atitle=Prenatal+Alcohol+Exposure+in+Relation+to+Autism+Spectrum+Disorder%3A+Findings+from+the+Study+to+Explore+Early+Development+%28SEED%29&aulast=Singer&pid=%3Cauthor%3ESinger+A.B.%3BAylsworth+A.S.%3BCordero+C.%3BCroen+L.A.%3BDiGuiseppi+C.%3BFallin+M.D.%3BHerring+A.H.%3BHooper+S.R.%3BPretzel+R.E.%3BSchieve+L.A.%3BWindham+G.C.%3BDaniels+J.L.%3C%2Fauthor%3E%3CAN%3E618216204%3C%2FAN%3E%3CDT%3EArticle%3C%2FDT%3E 
+
+7. 
+TY  - JOUR
+ID  - 2000930708
+T1  - Interactive effects of prenatal alcohol exposure and chronic stress in adulthood on anxiety-like behavior and central stress-related receptor mRNA expression: Sex- and time-dependent effects
+A1  - Lam V.Y.Y.
+A1  - Raineki C.
+A1  - Ellis L.
+A1  - Yu W.
+A1  - Weinberg J. 
+AO  - Raineki, Charlis; ORCID: http://orcid.org/0000-0003-1655-5935
+AO  - Weinberg, Joanne; ORCID: http://orcid.org/0000-0002-7937-3904
+Y1  - 2018//
+N2  - Children and adults prenatally exposed to alcohol show higher rates of mental health problems than unexposed individuals, with depression and anxiety being among the more commonly encountered disorders. Previous studies in rats showed that prenatal alcohol exposure (PAE) can indeed increase depressive- and anxiety-like behavior in adulthood; however, depression and anxiety are often observed in the context of stress and/or a dysregulated stress response system (the hypothalamic-pituitary-adrenal [HPA] axis). PAE can dysregulate the HPA axis, resulting in hyperresponsivity to stress. In turn, this may predispose individuals prenatally exposed to alcohol to the adverse effects of stress compared to unexposed individuals. We have shown previously that PAE animals may be more sensitive to the effects of chronic stress on behavior, showing increased anxiety- and depressive-like behavior following chronic unpredictable stress (CUS) exposure. Here, we investigated the independent and interactive effects of PAE and adult CUS on anxiety-like behavior and receptor systems (corticotropin-releasing hormone receptor type 1 [CRHR1], mineralocorticoid receptor [MR], and glucocorticoid receptor [GR]), and underlying stress and emotional regulation, and whether exposure to CUS differentially results in immediate or delayed effects. Adult male and female offspring from PAE, pair-fed (PF), and ad libitum-fed control (C) dams were exposed to either 10 days of CUS or left undisturbed. Behavioral testing began 1 or 14 days post-CUS, and brains were collected following testing. Anxiety-like behaviors were evaluated using the open field, elevated plus maze and dark-light emergence tests. CRHR1, MR, and GR mRNA expression were assessed in the medial prefrontal cortex (mPFC), amygdala, and hippocampal formation, brain areas key to both stress and emotional regulation. We found that PAE differentially increased anxiety-like behavior and altered GR mRNA in males and females compared to their control counterparts. Furthermore, depending on the timing of testing, CUS unmasked alterations in GR and CRHR1 mRNA expression in the mPFC and amygdala in PAE males, and MR mRNA in the hippocampal formation in PAE females compared to their C counterparts. Overall, the changes observed in these receptor systems may underlie the increase in anxiety-like behavior following PAE and CUS exposure in adulthood. That CUS differentially affected brain and behavioral outcome of PAE and C animals, and did so in a sexually-dimorphic manner, has important implications for understanding the etiology of psychopathology in individuals prenatally exposed to alcohol.Copyright © 2018 Elsevier Ltd
+KW  - adult
+KW  - *adulthood
+KW  - amygdala
+KW  - animal experiment
+KW  - animal tissue
+KW  - *anxiety
+KW  - article
+KW  - *chronic stress
+KW  - controlled study
+KW  - elevated plus maze test
+KW  - emotionality
+KW  - experimental behavioral test
+KW  - female
+KW  - *gene expression
+KW  - hippocampus
+KW  - male
+KW  - medial prefrontal cortex
+KW  - nonhuman
+KW  - open field test
+KW  - *prenatal exposure
+KW  - priority journal
+KW  - rat
+KW  - sex
+KW  - time
+KW  - *alcohol
+KW  - corticotropin releasing factor receptor 1
+KW  - glucocorticoid receptor
+KW  - messenger RNA/ec [Endogenous Compound]
+KW  - mineralocorticoid receptor
+KW  - CRHR1 gene
+KW  - dark light emergence test
+KW  - GR gene
+KW  - MR gene
+JF  - Psychoneuroendocrinology
+JA  - Psychoneuroendocrinology
+VL  - 97
+SP  - 8
+EP  - 19
+CY  - United Kingdom
+PB  - Elsevier Ltd
+SN  - 0306-4530
+SN  - 1873-3360
+AD  - V.Y.Y. Lam, Department of Cellular and Physiological Sciences, University of British Columbia, 2350 Health Sciences Mall, Vancouver, BC V6T 1Z3, Canada. E-mail: vivian.lam@ubc.ca
+M1  - (Lam, Raineki, Ellis, Yu, Weinberg) Department of Cellular and Physiological Sciences, University of British Columbia, Vancouver, BC, Canada
+UR  - http://www.elsevier.com/locate/psyneuen
+DO  - http://dx.doi.org/10.1016/j.psyneuen.2018.06.018
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexa&NEWS=N&AN=2000930708
+ER  -  
+
+Link to the Ovid Full Text or citation: http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emexa&AN=2000930708Link to the External Link Resolver: https://maastrichtuniversity.on.worldcat.org/atoztitles/link?sid=OVID:embase&id=pmid:&id=doi:10.1016%2Fj.psyneuen.2018.06.018&issn=0306-4530&isbn=&volume=97&issue=&spage=8&pages=8-19&date=2018&title=Psychoneuroendocrinology&atitle=Interactive+effects+of+prenatal+alcohol+exposure+and+chronic+stress+in+adulthood+on+anxiety-like+behavior+and+central+stress-related+receptor+mRNA+expression%3A+Sex-+and+time-dependent+effects&aulast=Lam&pid=%3Cauthor%3ELam+V.Y.Y.%3BRaineki+C.%3BEllis+L.%3BYu+W.%3BWeinberg+J.%3C%2Fauthor%3E%3CAN%3E2000930708%3C%2FAN%3E%3CDT%3EArticle%3C%2FDT%3E 
+
+8. 
+TY  - JOUR
+ID  - 622762360
+T1  - Does prenatal alcohol exposure cause a metabolic syndrome? (Non-)evidence from a mouse model of fetal alcohol spectrum disorder
+A1  - Amos-Kroohs R.M.
+A1  - Nelson D.W.
+A1  - Hacker T.A.
+A1  - Yen C.-L.E.
+A1  - Smith S.M. 
+Y1  - 2018//
+N2  - Although prenatal alcohol exposure (PAE) reduces offspring growth, it may increase obesity risk at adolescence. Animal models of PAE display glucose intolerance and increased adiposity, suggesting that PAE causes metabolic reprogramming. We tested this hypothesis in a mouse model of binge PAE, wherein pregnant C57Bl/6J females received 3 g/kg alcohol (ETOH) daily from gestational day 12.5 to 17.5; maltodextrin (MD) and medium chain triglycerides (MCT) served as isocaloric nutritional controls, and sham (H2O) treatment controlled for gavage stress. Our comprehensive assessment quantified body composition, energy expenditure, glucose tolerance, and cardiovascular function in offspring at age 17 weeks. Although ETOH pups were initially lighter than all other groups, they did not have a unique obesogenic phenotype. Instead, a similar obesogenic phenotype emerged in all three caloric groups (MCT, MD, ETOH), such that caloric groups had greater post-weaning weight gain (both sexes), reduced gonadal fat weight (males), and reduced glucose clearance (males) compared against H2O offspring. PAE did not affect body composition, respiratory exchange ratio, metabolic adaption to high-fat or low-fat diet, eating behavior, and blood pressure, and ETOH values did not differ from those obtained from isocaloric controls. Exposure to a higher alcohol dose (4.5 g/kg) or a high-fat (60%) diet did not exacerbate differences in body composition or glucose tolerance. "PAE-specific" effects on postnatal growth, glucose tolerance, adiposity, or hypertension only emerged when PAE offspring were compared just against H2O controls, or against MD controls. We conclude that prior reports of obesity and glucose intolerance in adult PAE offspring reflect the contribution of added gestational calories, and not alcohol's pharmacologic action. Results suggest that the increased adiposity risk in FASD is not caused by metabolic reprogramming, and instead originates from behavioral, medication, and/or dietary practices. This study highlights the importance of appropriate dietary controls in nutritional studies of PAE.Copyright © 2018 Amos-Kroohs et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+KW  - animal experiment
+KW  - animal model
+KW  - article
+KW  - blood pressure
+KW  - body composition
+KW  - body weight gain
+KW  - C57BL 6 mouse
+KW  - cardiovascular function
+KW  - cohort analysis
+KW  - controlled study
+KW  - embryo
+KW  - energy expenditure
+KW  - feeding
+KW  - feeding behavior
+KW  - female
+KW  - *fetal alcohol syndrome
+KW  - gestational age
+KW  - glucose tolerance
+KW  - gonadal fat
+KW  - lipid diet
+KW  - low fat diet
+KW  - lung gas exchange
+KW  - male
+KW  - *metabolic syndrome X
+KW  - mouse
+KW  - nonhuman
+KW  - *prenatal exposure
+KW  - sham procedure
+KW  - *alcohol
+KW  - maltodextrin
+KW  - medium chain triacylglycerol
+JF  - PLoS ONE
+JA  - PLoS ONE
+VL  - 13
+IS  - 6
+SP  - e0199213
+CY  - United States
+PB  - Public Library of Science (E-mail: plos@plos.org)
+SN  - 1932-6203
+AD  - S.M. Smith, UNC Nutritional Research Institute, Department of Nutrition, University of North Carolina-Chapel Hill, Kannapolis, NC, United States. E-mail: Susan_Smith@unc.edu
+M1  - (Amos-Kroohs, Smith) UNC Nutritional Research Institute, Department of Nutrition, University of North Carolina-Chapel Hill, Kannapolis, NC, United States
+M1  - (Amos-Kroohs, Nelson, Yen, Smith) Department of Nutritional Sciences, University of Wisconsin-Madison, Madison, WI, United States
+M1  - (Hacker) Cardiovascular Research Center, Department of Medicine, University of Wisconsin School of Medicine and Public Health, Madison, WI, United States
+UR  - http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0199213&type=printable
+DO  - http://dx.doi.org/10.1371/journal.pone.0199213
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexa&NEWS=N&AN=622762360
+ER  -  
+
+Link to the Ovid Full Text or citation: http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emexa&AN=622762360Link to the External Link Resolver: https://maastrichtuniversity.on.worldcat.org/atoztitles/link?sid=OVID:embase&id=pmid:&id=doi:10.1371%2Fjournal.pone.0199213&issn=1932-6203&isbn=&volume=13&issue=6&spage=e0199213&pages=&date=2018&title=PLoS+ONE&atitle=Does+prenatal+alcohol+exposure+cause+a+metabolic+syndrome%3F+%28Non-%29evidence+from+a+mouse+model+of+fetal+alcohol+spectrum+disorder&aulast=Amos-Kroohs&pid=%3Cauthor%3EAmos-Kroohs+R.M.%3BNelson+D.W.%3BHacker+T.A.%3BYen+C.-L.E.%3BSmith+S.M.%3C%2Fauthor%3E%3CAN%3E622762360%3C%2FAN%3E%3CDT%3EArticle%3C%2FDT%3E 
+
+9. 
+TY  - JOUR
+ID  - 622676228
+T1  - Correlation of fatty acid ethyl esters (FAEE) inmeconiumto prenatal alcohol exposure and fetal body. placenta and brainweights in rats pups
+T3  - 41st Annual Scientific Meeting of the Research Society on Alcoholism, RSA 2018. United States.
+A1  - Ostrea E.M.
+A1  - Cheng C.T.
+A1  - Alviedo J.
+A1  - Banadera F.D.
+A1  - Thomas R.L. 
+Y1  - 2018//
+N2  - Background: We studied the correlation of FAEE in meconium to prenatal alcohol exposure and to adverse effect on placenta and fetal body and brain weight in rat pups. Objective: 1) To detect FAEE in meconium of alcohol exposed fetal rats, and to correlate the FAEE concentrations to the pups' body, brain and placental weights. Design/Methods: Timed-pregnant Sprague Dawley rats on gestation day (GD) 4 were divided into 4 groups (9 rats/group): 2 control groups (C) fed rat chow ad libitum (AL) or pair fed (PF) and 2 treatment groups (T) fed rat chow plus 25% alcohol by gavage at 2.2 g/kg/day (LD) or 5.5 g/kg/day (HD) from GD 8-19. Dams were sacrificed on GD 20. Pups per dam were separated by gender and their body, brain, intestine (meconium) and placental weights (G) were pooled and frozen. FAEE in meconium was quantified by GCMS. Comparison in differences in mean weights between groups by one way ANOVA with post hoc Bonferroni correction. Bivariate correlation to FAEE by Pearson's correlation. Significant statistical level at p <= 0.05. Results: Body (1.91 versus 2.33, p = 0.001) and placental (0.48 versus 0.53, p = 0.004) weights showed T < C. Brain weights in HD < PF (0.13 versus 0.14, p = 0.001). Male (1.94 versus 2.40, p = 0.001) and female (1.89 versus 2.28, p = 0.006) body weights showed T< C. Female brain weight showed T < PF (0.13 versus 0.14, p = 0.029). FAEE (ethyl palmitate [EP], ethyl linoleate, [EL], ethyl stearate [ES]) were found only in meconium of T group. EP and EL increased at higher alcohol doses. In both genders, EP correlated negatively with body (r=<= 0.644, p = 0.000) and brain (r=<= 0.484, p = 0.000) weights and EL with brain weight (r=<= 0.318, p = 0.022). Inmales, negative correlation of body weight with EP (r=<= 0.752, p = 0.000) and EL (r = 0.463, p = 0.017) and brain weight with EP (r=<= 0.481, p = 0.013) and EL (r=<= 0.529, p = 0.005). In females, negative correlation of EP with body (r=<= 0.544, p = 0.004) and brain (r=<= 0.482, p = 0.0133) weights. Conclusion(s): FAEE in meconium was found only in alcohol exposed pups. This is the first study to demonstrate a significant, negative correlation of FAEE to placenta, body and brain weights in the rat pups.
+KW  - adult
+KW  - analysis of variance
+KW  - animal experiment
+KW  - body weight
+KW  - brain weight
+KW  - controlled study
+KW  - drug megadose
+KW  - enteric feeding
+KW  - female
+KW  - fetus
+KW  - gender
+KW  - intestine
+KW  - male
+KW  - meconium
+KW  - nonhuman
+KW  - *placenta weight
+KW  - pregnancy
+KW  - pup (rodent)
+KW  - rat
+KW  - Sprague Dawley rat
+KW  - *alcohol
+KW  - linoleic acid ethyl ester
+KW  - unclassified drug
+KW  - conference abstract
+JF  - Alcoholism: Clinical and Experimental Research
+JA  - Alcohol. Clin. Exp. Res.
+VL  - 42
+IS  - Supplement 1
+SP  - 116A
+CY  - Netherlands
+PB  - Blackwell Publishing Ltd
+SN  - 1530-0277
+AD  - E.M. Ostrea, Pediatrics, Wayne State University School OfMedicine, Detroit, MI 48334, United States
+M1  - (Ostrea, Cheng, Alviedo, Banadera, Thomas) Pediatrics, Wayne State University School OfMedicine, Detroit, MI 48334, United States
+DO  - http://dx.doi.org/10.1111/acer.13747
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexa&NEWS=N&AN=622676228
+ER  -  
+
+Link to the Ovid Full Text or citation: http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emexa&AN=622676228Link to the External Link Resolver: https://maastrichtuniversity.on.worldcat.org/atoztitles/link?sid=OVID:embase&id=pmid:&id=doi:10.1111%2Facer.13747&issn=1530-0277&isbn=&volume=42&issue=Supplement+1&spage=116A&pages=116A&date=2018&title=Alcoholism%3A+Clinical+and+Experimental+Research&atitle=Correlation+of+fatty+acid+ethyl+esters+%28FAEE%29+inmeconiumto+prenatal+alcohol+exposure+and+fetal+body.+placenta+and+brainweights+in+rats+pups&aulast=Ostrea&pid=%3Cauthor%3EOstrea+E.M.%3BCheng+C.T.%3BAlviedo+J.%3BBanadera+F.D.%3BThomas+R.L.%3C%2Fauthor%3E%3CAN%3E622676228%3C%2FAN%3E%3CDT%3EConference+Abstract%3C%2FDT%3E 
+
+10. 
+TY  - JOUR
+ID  - 622676201
+T1  - Reduced heart rate variability is associated with negative affect in 6 month old infantswith prenatal alcohol exposure
+T3  - 41st Annual Scientific Meeting of the Research Society on Alcoholism, RSA 2018. United States.
+A1  - Kabella D.
+A1  - Flynn L.
+A1  - Cano S.
+A1  - Lowe J.R.
+A1  - Bakhireva L.N.
+A1  - Stephen J.M. 
+Y1  - 2018//
+N2  - There is prior clinical and preclinical evidence that the autonomic nervous system (ANS) is altered with prenatal alcohol exposure (PAE). However, little is known about the effects of PAE on heart rate variability (HRV), a measure of ANS function, in infants and to what extent this dysregulation impacts behavior. In this study we examined HRV in infants 6 months of age who were or were not prenatally exposed to alcohol in a subset of the ENRICH cohort. Each infant also participated in the Still Face paradigm and positive and negative affect were coded during the play and still-face periods. Both time and frequency domain measures of HRV were obtained after identifying the interbeat intervals from the electrocardiogram measured during MEG data collection. Square root of themean squared differences between successive RR intervals (RMSSD) and High Frequency (HF, 0.15-0.4 Hz) power are reported here.We obtained good HRV signal from 19 infants with confirmed PAE and 35 controls. Of these, analysis of still-face data was completed in 12 infants with confirmed PAE and 27 controls. There was a significant group difference for HRV measures. The RMSSD (p = 0.040) and HF power (p = 0.006) were lower among the alcohol exposed group relative to the controls. Additionally, controls showed an association between positive affect and HF power (r = 0.42, p = 0.022, N = 27) that was not present in PAE. In the PAE group there was a significant negative correlation between RMSSD and negative affect (r = -0.62, p = 0.018, N = 12). Thus, as RMSSD HRV increased, the negative affect scores of the PAE group decreased revealing less efficient physiological and behavioral regulatory systems with PAE. The results are consistent with overall group differences indicating lower HRV in PAE infants. Building on the literature, these results describe a unique observation that negative affect is linked to HRV in PAE infants only. Reductions in RMSSD and HF power, indices of parasympathetic modulation of the ANS, in the PAE group are consistent with reported reductions of HRV in other clinical groups and are linked to alterations in the stress response network.
+KW  - autonomic nervous system
+KW  - clinical article
+KW  - controlled study
+KW  - female
+KW  - *heart rate variability
+KW  - human
+KW  - infant
+KW  - male
+KW  - modulation
+KW  - RR interval
+KW  - stress
+KW  - *alcohol
+KW  - conference abstract
+JF  - Alcoholism: Clinical and Experimental Research
+JA  - Alcohol. Clin. Exp. Res.
+VL  - 42
+IS  - Supplement 1
+SP  - 229A
+CY  - Netherlands
+PB  - Blackwell Publishing Ltd
+SN  - 1530-0277
+AD  - D. Kabella, Mind Research Network and Lovelace Biomedical and Environmental Research Institute, Albuquerque, NM, United States
+M1  - (Kabella, Flynn, Cano, Lowe, Bakhireva, Stephen) Mind Research Network and Lovelace Biomedical and Environmental Research Institute, Albuquerque, NM, United States
+M1  - (Kabella, Flynn, Cano, Lowe, Bakhireva, Stephen) College of Pharmacy, University of New Mexico Health Sciences Center, Albuquerque, NM, United States
+DO  - http://dx.doi.org/10.1111/acer.13747
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexa&NEWS=N&AN=622676201
+ER  -  
+
+Link to the Ovid Full Text or citation: http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emexa&AN=622676201Link to the External Link Resolver: https://maastrichtuniversity.on.worldcat.org/atoztitles/link?sid=OVID:embase&id=pmid:&id=doi:10.1111%2Facer.13747&issn=1530-0277&isbn=&volume=42&issue=Supplement+1&spage=229A&pages=229A&date=2018&title=Alcoholism%3A+Clinical+and+Experimental+Research&atitle=Reduced+heart+rate+variability+is+associated+with+negative+affect+in+6+month+old+infantswith+prenatal+alcohol+exposure&aulast=Kabella&pid=%3Cauthor%3EKabella+D.%3BFlynn+L.%3BCano+S.%3BLowe+J.R.%3BBakhireva+L.N.%3BStephen+J.M.%3C%2Fauthor%3E%3CAN%3E622676201%3C%2FAN%3E%3CDT%3EConference+Abstract%3C%2FDT%3E 
+
+

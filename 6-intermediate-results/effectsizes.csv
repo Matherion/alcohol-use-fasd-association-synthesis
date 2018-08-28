@@ -1,231 +1,121 @@
-"","study","variable1","variable2","n1","v","d","n2"
-"1","Cannon2012.r","Alcoholism","FAS diagnosis",3894925,0.0131263748088644,NA,NA
-"2","Cannon2012.r","Drinks during a sitting","FAS diagnosis",3895227,0.0362372625701432,NA,NA
-"3","Cannon2012.r","Frequency during","FAS diagnosis",3895227,0.0341684157263176,NA,NA
-"4","Ceccanti2014.r","Drinks before a day","FASD diagnosis",108,NA,0.290378318411679,39
-"5","Ceccanti2014.r","Drinks during a week","FASD diagnosis",108,NA,0.282610641819156,39
-"6","Ceccanti2014.r","Drinks during a drinking day","FASD diagnosis",108,NA,0.239804493956209,39
-"7","Ceccanti2014.r","Binge during","FASD diagnosis",147.00001,0.194892278025886,NA,NA
-"8","Ceccanti2014.r","Binge current","FASD diagnosis",147,0.0636637017555156,NA,NA
-"9","Ceccanti2014.r","Drinks during first trimester","FASD diagnosis",108,NA,0.192938048520221,39
-"10","Ceccanti2014.r","Drinks during second trimester","FASD diagnosis",108,NA,0.322391626259536,39
-"11","Ceccanti2014.r","Drinks during third trimester","FASD diagnosis",108,NA,0.298968747932846,39
-"12","Ceccanti2014.r","Drinks before a day","FASD diagnosis",108,NA,0.290378318411679,39
-"13","Ceccanti2014.r","Drinks during a week","FASD diagnosis",108,NA,0.282610641819156,39
-"14","Ceccanti2014.r","Drinks during a drinking day","FASD diagnosis",108,NA,0.239804493956209,39
-"15","Ceccanti2014.r","Drinks during first trimester","FASD diagnosis",108,NA,0.192938048520221,39
-"16","Ceccanti2014.r","Drinks during second trimester","FASD diagnosis",108,NA,0.322391626259536,39
-"17","Ceccanti2014.r","Drinks during third trimester","FASD diagnosis",108,NA,0.298968747932846,39
-"18","Coyne2008.r","Smoking before","FAS diagnosis",28.087,0.439404484798171,NA,NA
-"19","Coyne2008.r","Drinking before a week","FAS diagnosis",85.956,0.474145558752333,NA,NA
-"20","Coyne2008.r","Smoking during","FAS diagnosis",34.133,0.765604833899576,NA,NA
-"21","Coyne2008.r","Alcohol consumption: during a week","FAS diagnosis",91.95301,0.548435089175569,NA,NA
-"22","Davies2011.r","Alcohol consumption: during","FASD diagnosis",75,0.656739821698036,NA,NA
-"23","Leary2010b.r","Drinking before","ARBD diagnosis",1137.364,0.282425726603796,NA,NA
-"24","Leary2010b.r","Alcohol consumption: during first trimester","ARBD diagnosis",1237.30802,0.319406595300409,NA,NA
-"25","Leary2010b.r","Alcohol consumption: during late pregnancy","ARBD diagnosis",1563.30502,0.255376540522116,NA,NA
-"26","May2000.r","Current alcohol consumption","FAS diagnosis",41,NA,1.13799860901333,35
-"27","May2000.r","Drinks current a Saturday","FAS diagnosis",41,NA,1.15520509340525,35
-"28","May2000.r","Drinking before","FAS diagnosis",88,0.410859342209236,NA,NA
-"29","May2000.r","Alcohol consumption: during first trimester","FAS diagnosis",87.954,0.439175397853023,NA,NA
-"30","May2000.r","Alcohol consumption: during second trimester","FAS diagnosis",88,0.494743612313359,NA,NA
-"31","May2000.r","Alcohol consumption: during third trimester","FAS diagnosis",88,0.513344212153966,NA,NA
-"32","May2000.r","Smoking during","FAS diagnosis",88,0.445603237646661,NA,NA
-"33","May2000.r","Current alcohol consumption","FAS diagnosis",41,NA,1.13799860901333,35
-"34","May2000.r","Drinks current a Saturday","FAS diagnosis",41,NA,1.15520509340525,35
-"35","May2005.r","Consumes alcohol: current","FAS diagnosis",162,0.473167456932968,NA,NA
-"36","May2005.r","Smoking current","FAS diagnosis",162,0.341440640037828,NA,NA
-"37","May2005.r","Current alcohol consumption","FAS diagnosis",109,NA,0.885496183206107,53
-"38","May2005.r","Current tobacco use","FAS diagnosis",109,NA,0.790425693059554,53
-"39","May2005.r","Binge current","FAS diagnosis",162,0.681678756006869,NA,NA
-"40","May2005.r","Current alcohol consumption a weekend","FAS diagnosis",109,NA,0.918918918918919,53
-"41","May2005.r","Drinking before","FAS diagnosis",162.05601,0.580192790692182,NA,NA
-"42","May2005.r","Smoking before","FAS diagnosis",162.00002,0.485639093924401,NA,NA
-"43","May2005.r","Smoking during","FAS diagnosis",162,0.426197389471923,NA,NA
-"44","May2005.r","Alcohol consumption: during first trimester","FAS diagnosis",162.00001,0.700348728458297,NA,NA
-"45","May2005.r","Smoking during first trimester","FAS diagnosis",162.00001,0.498417896803748,NA,NA
-"46","May2005.r","Alcohol consumption: during second trimester","FAS diagnosis",162.00001,0.76969367999733,NA,NA
-"47","May2005.r","Smoking during second trimester","FAS diagnosis",162.00001,0.531581669007333,NA,NA
-"48","May2005.r","Alcohol consumption: during third trimester","FAS diagnosis",162.109,0.80778880933593,NA,NA
-"49","May2005.r","Smoking during third trimester","FAS diagnosis",161.94701,0.550472031752116,NA,NA
-"50","May2005.r","Current drinker and smoker","FAS diagnosis",162,0.629643064706374,NA,NA
-"51","May2005.r","Alcohol abuse","FAS diagnosis",162,0.0620648577268083,NA,NA
-"52","May2005.r","Current alcohol consumption","FAS diagnosis",109,NA,0.885496183206107,53
-"53","May2005.r","Current tobacco use","FAS diagnosis",109,NA,0.790425693059554,53
-"54","May2005.r","Current alcohol consumption a weekend","FAS diagnosis",109,NA,0.918918918918919,53
-"55","May2007a.r","Consumes alcohol: current","FASD diagnosis",194,0.326818284979702,NA,NA
-"56","May2007a.r","Smoking current","FASD diagnosis",194,0.373520304212243,NA,NA
-"57","May2007a.r","Smoking during","FASD diagnosis",194,0.450388215648367,NA,NA
-"58","May2007a.r","Current tobacco use","FASD diagnosis",133,NA,0.678464363024448,61
-"59","May2007a.r","Drinks current a week","FASD diagnosis",133,NA,0.39771140219284,61
-"60","May2007a.r","Drinks current a weekend","FASD diagnosis",133,NA,0.523015165758535,61
-"61","May2007a.r","Drinking before","FASD diagnosis",194,0.620822619403098,NA,NA
-"62","May2007a.r","Alcohol consumption: during","FASD diagnosis",194,0.663595857021846,NA,NA
-"63","May2007a.r","Alcohol consumption: during first trimester","FASD diagnosis",194,0.658249552039728,NA,NA
-"64","May2007a.r","Alcohol consumption: during second trimester","FASD diagnosis",194,0.643174563667119,NA,NA
-"65","May2007a.r","Alcohol consumption: during third trimester","FASD diagnosis",194,0.61339942288045,NA,NA
-"66","May2007a.r","Current tobacco use","FASD diagnosis",133,NA,0.678464363024448,61
-"67","May2007a.r","Drinks current a week","FASD diagnosis",133,NA,0.39771140219284,61
-"68","May2007a.r","Drinks current a weekend","FASD diagnosis",133,NA,0.523015165758535,61
-"69","May2008a.r","Consumes alcohol: current","FAS diagnosis",182,0.359632909175716,NA,NA
-"70","May2008a.r","Drinks current a week","FAS diagnosis",133,NA,0.511554506699833,49
-"71","May2008a.r","Current tobacco use","FAS diagnosis",133,NA,0.77385141086206,49
-"72","May2008a.r","Binge current a week","FAS diagnosis",182,0.254731481356831,NA,NA
-"73","May2008a.r","Drinks current a weekend","FAS diagnosis",133,NA,0.578448167316777,49
-"74","May2008a.r","Percent drinks current a weekend","FAS diagnosis",182.00001,0.303013976847532,NA,NA
-"75","May2008a.r","Drinking before","FAS diagnosis",265.098,0.574184071720999,NA,NA
-"76","May2008a.r","Smoking before","FAS diagnosis",182,0.452467198474239,NA,NA
-"77","May2008a.r","Smoking during","FAS diagnosis",182,0.430365625429281,NA,NA
-"78","May2008a.r","Smoking and drinking during","FAS diagnosis",182,0.565740208775858,NA,NA
-"79","May2008a.r","Alcohol consumption: during first trimester","FAS diagnosis",183.00001,0.688972955101458,NA,NA
-"80","May2008a.r","Smoking during first trimester","FAS diagnosis",180.138,0.503658922908326,NA,NA
-"81","May2008a.r","Alcohol consumption: during second trimester","FAS diagnosis",318.73201,0.570903316195593,NA,NA
-"82","May2008a.r","Alcohol consumption: during third trimester","FAS diagnosis",185,0.661878664937256,NA,NA
-"83","May2008a.r","Smoking during third trimester","FAS diagnosis",181.33501,0.510846232251178,NA,NA
-"84","May2008a.r","Drinks before a day","FAS diagnosis",31,NA,0.563436169819011,43
-"85","May2008a.r","Binge during","FAS diagnosis",74,0.332793614211372,NA,NA
-"86","May2008a.r","Drinks during first trimester a day","FAS diagnosis",31,NA,0.522167224432847,43
-"87","May2008a.r","Drinks during second trimester a day","FAS diagnosis",31,NA,0.558962410867091,43
-"88","May2008a.r","Drinks during third trimester a day","FAS diagnosis",31,NA,0.48147162911707,43
-"89","May2008a.r","Peak estimated BAC first trimester","FAS diagnosis",31,NA,0.653884314913366,43
-"90","May2008a.r","Peak estimated BAC second trimester","FAS diagnosis",31,NA,0.82043532342448,43
-"91","May2008a.r","Peak estimated BAC third trimester","FAS diagnosis",31,NA,0.838673516034315,43
-"92","May2008a.r","Consumes alcohol: current","pFAS diagnosis",148,0.133392665678776,NA,NA
-"93","May2008a.r","Drinks current a week","pFAS diagnosis",133,NA,0.248113312504434,15
-"94","May2008a.r","Current tobacco use","pFAS diagnosis",133,NA,0.438700133433818,15
-"95","May2008a.r","Binge current a week","pFAS diagnosis",148,0.209783847641166,NA,NA
-"96","May2008a.r","Drinks current a weekend","pFAS diagnosis",133,NA,0.311909532228783,15
-"97","May2008a.r","Percent drinks current a weekend","pFAS diagnosis",148.00001,0.191477120507124,NA,NA
-"98","May2008a.r","Drinking before","pFAS diagnosis",197.10601,0.385194453137847,NA,NA
-"99","May2008a.r","Smoking before","pFAS diagnosis",148.015,0.26977438382451,NA,NA
-"100","May2008a.r","Smoking during","pFAS diagnosis",148,0.286464213358216,NA,NA
-"101","May2008a.r","Smoking and drinking during","pFAS diagnosis",148,0.445956255721815,NA,NA
-"102","May2008a.r","Alcohol consumption: during first trimester","pFAS diagnosis",149.01501,0.509459545979243,NA,NA
-"103","May2008a.r","Smoking during first trimester","pFAS diagnosis",146.13802,0.497230951179349,NA,NA
-"104","May2008a.r","Alcohol consumption: during second trimester","pFAS diagnosis",281.73201,0.469955353476649,NA,NA
-"105","May2008a.r","Alcohol consumption: during third trimester","pFAS diagnosis",147.986,0.46240888820153,NA,NA
-"106","May2008a.r","Smoking during third trimester","pFAS diagnosis",147.33502,0.481400710879101,NA,NA
-"107","May2008a.r","Drinks before a day","pFAS diagnosis",31,NA,-0.0792428851750328,11
-"108","May2008a.r","Binge during","pFAS diagnosis",42,0.201036893076418,NA,NA
-"109","May2008a.r","Drinks during first trimester a day","pFAS diagnosis",31,NA,0.0330409300227545,11
-"110","May2008a.r","Drinks during second trimester a day","pFAS diagnosis",31,NA,-0.161605938933455,11
-"111","May2008a.r","Drinks during third trimester a day","pFAS diagnosis",31,NA,-0.313304179995183,11
-"112","May2008a.r","Peak estimated BAC first trimester","pFAS diagnosis",31,NA,0.512274595880427,11
-"113","May2008a.r","Peak estimated BAC second trimester","pFAS diagnosis",31,NA,0.432413481197701,11
-"114","May2008a.r","Peak estimated BAC third trimester","pFAS diagnosis",31,NA,0.25936210525904,11
-"115","May2008a.r","Drinks current a week","FAS diagnosis",133,NA,0.511554506699833,49
-"116","May2008a.r","Current tobacco use","FAS diagnosis",133,NA,0.77385141086206,49
-"117","May2008a.r","Drinks current a weekend","FAS diagnosis",133,NA,0.578448167316777,49
-"118","May2008a.r","Drinks before a day","FAS diagnosis",31,NA,0.563436169819011,43
-"119","May2008a.r","Drinks during first trimester a day","FAS diagnosis",31,NA,0.522167224432847,43
-"120","May2008a.r","Drinks during second trimester a day","FAS diagnosis",31,NA,0.558962410867091,43
-"121","May2008a.r","Drinks during third trimester a day","FAS diagnosis",31,NA,0.48147162911707,43
-"122","May2008a.r","Peak estimated BAC first trimester","FAS diagnosis",31,NA,0.653884314913366,43
-"123","May2008a.r","Peak estimated BAC second trimester","FAS diagnosis",31,NA,0.82043532342448,43
-"124","May2008a.r","Peak estimated BAC third trimester","FAS diagnosis",31,NA,0.838673516034315,43
-"125","May2008a.r","Drinks current a week","pFAS diagnosis",133,NA,0.248113312504434,15
-"126","May2008a.r","Current tobacco use","pFAS diagnosis",133,NA,0.438700133433818,15
-"127","May2008a.r","Drinks current a weekend","pFAS diagnosis",133,NA,0.311909532228783,15
-"128","May2008a.r","Drinks before a day","pFAS diagnosis",31,NA,-0.0792428851750328,11
-"129","May2008a.r","Drinks during first trimester a day","pFAS diagnosis",31,NA,0.0330409300227545,11
-"130","May2008a.r","Drinks during second trimester a day","pFAS diagnosis",31,NA,-0.161605938933455,11
-"131","May2008a.r","Drinks during third trimester a day","pFAS diagnosis",31,NA,-0.313304179995183,11
-"132","May2008a.r","Peak estimated BAC first trimester","pFAS diagnosis",31,NA,0.512274595880427,11
-"133","May2008a.r","Peak estimated BAC second trimester","pFAS diagnosis",31,NA,0.432413481197701,11
-"134","May2008a.r","Peak estimated BAC third trimester","pFAS diagnosis",31,NA,0.25936210525904,11
-"135","May2011b.r","Alcohol consumption: during","FAS diagnosis",120,0.0507813330209588,NA,NA
-"136","May2011b.r","Drinks current a week","FAS diagnosis",112,NA,0.467758985200846,8
-"137","May2011b.r","Drinks current a day","FAS diagnosis",112,NA,0.353159851301115,8
-"138","May2011b.r","Alcohol consumption: during","pFAS diagnosis",8,NA,NA,NA
-"139","May2011b.r","Alcohol consumption: during","FASD diagnosis",8,NA,NA,NA
-"140","May2011b.r","Smoking current","FASD diagnosis",108,0.205213256586637,NA,NA
-"141","May2011b.r","Smoking before","FASD diagnosis",108,0.0269194452280329,NA,NA
-"142","May2011b.r","Smoking during","FASD diagnosis",108,0.0294260308210201,NA,NA
-"143","May2011b.r","Consumes alcohol: current","FASD diagnosis",108,0.0967990990647108,NA,NA
-"144","May2011b.r","Drinks current last month","FASD diagnosis",78,NA,0.25,30
-"145","May2011b.r","Alcohol consumption: during first trimester","FASD diagnosis",108,0.151001367211891,NA,NA
-"146","May2011b.r","Alcohol consumption: during second trimester","FASD diagnosis",108,0.234642308865027,NA,NA
-"147","May2011b.r","Alcohol consumption: during third trimester","FASD diagnosis",108,0.205336684549722,NA,NA
-"148","May2011b.r","Drinks current a week","pFAS diagnosis",112,NA,0.0832804856205717,34
-"149","May2011b.r","Drinks current a day","pFAS diagnosis",112,NA,0.0382915404156234,34
-"150","May2011b.r","Drinks current a week","FAS diagnosis",112,NA,0.467758985200846,8
-"151","May2011b.r","Drinks current a day","FAS diagnosis",112,NA,0.353159851301115,8
-"152","May2011b.r","Drinks current last month","FAS diagnosis",78,NA,NA,NA
-"153","May2011b.r","Drinks current a week","pFAS diagnosis",112,NA,0.0832804856205717,34
-"154","May2011b.r","Drinks current a day","pFAS diagnosis",112,NA,0.0382915404156234,34
-"155","May2011b.r","Drinks current last month","pFAS diagnosis",78,NA,NA,NA
-"156","May2011b.r","Drinks current a week","FASD diagnosis",112,NA,NA,NA
-"157","May2011b.r","Drinks current a day","FASD diagnosis",112,NA,NA,NA
-"158","May2011b.r","Drinks current last month","FASD diagnosis",78,NA,0.25,30
-"159","May2014.r","Current alcohol consumption days","FASD diagnosis",80,NA,0.506771785791278,30
-"160","May2014.r","Binge current 3+","FASD diagnosis",110,0.0830086489141866,NA,NA
-"161","May2014.r","Binge current 5+","FASD diagnosis",110,0.133926088477598,NA,NA
-"162","May2014.r","Drinking before","FASD diagnosis",80,NA,0.721686188984098,30
-"163","May2014.r","Alcohol consumption: during first trimester","FASD diagnosis",80,NA,0.45014069095232,30
-"164","May2014.r","Alcohol consumption: during second trimester","FASD diagnosis",80,NA,0.25,30
-"165","May2014.r","Alcohol consumption: during third trimester","FASD diagnosis",80,NA,0,30
-"166","May2014.r","Current alcohol consumption days","FASD diagnosis",80,NA,0.506771785791278,30
-"167","May2014.r","Drinking before","FASD diagnosis",80,NA,0.721686188984098,30
-"168","May2014.r","Alcohol consumption: during first trimester","FASD diagnosis",80,NA,0.45014069095232,30
-"169","May2014.r","Alcohol consumption: during second trimester","FASD diagnosis",80,NA,0.25,30
-"170","May2014.r","Alcohol consumption: during third trimester","FASD diagnosis",80,NA,0,30
-"171","May2014a.r","Smoking during","FASD diagnosis",128,0.403637055980499,NA,NA
-"172","May2014a.r","Smoking and drinking during","FASD diagnosis",128,0.521583394249738,NA,NA
-"173","May2014a.r","Smoking and binge 3+ during","FASD diagnosis",128,0.542817007414291,NA,NA
-"174","May2014a.r","Smoking and binge 5+ during","FASD diagnosis",128,0.525571583132752,NA,NA
-"175","May2014a.r","Consumes alcohol: current","FASD diagnosis",128,0.466630923882269,NA,NA
-"176","May2014a.r","Binge current","FASD diagnosis",128,0.835231686583424,NA,NA
-"177","May2014a.r","Current alcohol consumption a week","FASD diagnosis",85,NA,1.25267587517298,43
-"178","May2014a.r","Alcohol consumption: during first trimester","FASD diagnosis",128,0.648000221969336,NA,NA
-"179","May2014a.r","Alcohol consumption: during second trimester","FASD diagnosis",128,0.725101257724302,NA,NA
-"180","May2014a.r","Alcohol consumption: during third trimester","FASD diagnosis",128,0.733698778298328,NA,NA
-"181","May2014a.r","Binge during 3+","FASD diagnosis",128,0.604432365751657,NA,NA
-"182","May2014a.r","Binge during 5+","FASD diagnosis",128,0.562963193341127,NA,NA
-"183","May2014a.r","Current alcohol consumption a week","FASD diagnosis",85,NA,1.25267587517298,43
-"184","Miller1995.r","Alcohol consumption: during a week","FAS diagnosis",128,0.562963193341127,NA,NA
-"185","Miller1995.r","Smoking during","FAS diagnosis",214521.44,0.0167030514607676,NA,NA
-"186","Petkovic2013a.r","Current alcohol consumption","FAS, pFAS diagnosis",549.837,0.0619343069152743,NA,NA
-"187","Petkovic2013a.r","Alcohol consumption: during","FAS, pFAS diagnosis",640.664,0.105472772593237,NA,NA
-"188","Petkovic2013a.r","Smoking during","FAS, pFAS diagnosis",651.742,0.036709738609753,NA,NA
-"189","Petkovic2013a.r","Alcohol consumption: during first trimester","FAS, pFAS diagnosis",21.00002,0.00284789683533496,NA,NA
-"190","Petkovic2013a.r","Alcohol consumption: during second trimester","FAS, pFAS diagnosis",6.00002,0.0100822635735613,NA,NA
-"191","Petkovic2013a.r","Alcohol consumption: during third trimester","FAS, pFAS diagnosis",9,0.175267093155314,NA,NA
-"192","Petkovic2013a.r","Alcohol consumption: during entire pregnancy","FAS, pFAS diagnosis",22,0.0612587416371435,NA,NA
-"193","Urban2008.r","Current alcohol consumption","FAS, pFAS diagnosis",135,0.517379328788599,NA,NA
-"194","Urban2008.r","Smoking current","FAS, pFAS diagnosis",146,0.404263264899459,NA,NA
-"195","Urban2008.r","Smoking during","FAS, pFAS diagnosis",117,0.416237031618222,NA,NA
-"196","Urban2008.r","Alcohol consumption: during","FAS, pFAS diagnosis",168,0.625392042940484,NA,NA
-"197","Viljoen2002.r","Consumes alcohol: current","FAS diagnosis",62,0.36640466030863,NA,NA
-"198","Viljoen2002.r","Current alcohol consumption","FAS diagnosis",31,NA,1.05528221402823,31
-"199","Viljoen2002.r","Current alcohol consumption weekends","FAS diagnosis",9.486,0.0799344103683672,NA,NA
-"200","Viljoen2002.r","Percentage on weekends","FAS diagnosis",62,0.532279522121313,NA,NA
-"201","Viljoen2002.r","Smoking current","FAS diagnosis",62,0.375106073989499,NA,NA
-"202","Viljoen2002.r","Smoking during","FAS diagnosis",62,0.404505775016527,NA,NA
-"203","Viljoen2002.r","Current tobacco use","FAS diagnosis",31,NA,0.390726904160802,31
-"204","Viljoen2002.r","Smoking during first trimester","FAS diagnosis",31,NA,0.468092555729695,31
-"205","Viljoen2002.r","Smoking during second trimester","FAS diagnosis",31,NA,0.622114531105873,31
-"206","Viljoen2002.r","Smoking during third trimester","FAS diagnosis",31,NA,0.631754614815812,31
-"207","Viljoen2002.r","Drinking before","FAS diagnosis",62.031,0.476367284622471,NA,NA
-"208","Viljoen2002.r","Alcohol consumption: during first trimester","FAS diagnosis",62.031,0.501801698898057,NA,NA
-"209","Viljoen2002.r","Alcohol consumption: during second trimester","FAS diagnosis",62,0.549293215753707,NA,NA
-"210","Viljoen2002.r","Alcohol consumption: during third trimester","FAS diagnosis",61.969,0.543363345362772,NA,NA
-"211","Viljoen2002.r","Current alcohol consumption","FAS diagnosis",31,NA,1.05528221402823,31
-"212","Viljoen2002.r","Current tobacco use","FAS diagnosis",31,NA,0.390726904160802,31
-"213","Viljoen2002.r","Smoking during first trimester","FAS diagnosis",31,NA,0.468092555729695,31
-"214","Viljoen2002.r","Smoking during second trimester","FAS diagnosis",31,NA,0.622114531105873,31
-"215","Viljoen2002.r","Smoking during third trimester","FAS diagnosis",31,NA,0.631754614815812,31
-"216","Viljoen2005.r","Consumes alcohol: current","FAS diagnosis",169,0.469677181456535,NA,NA
-"217","Viljoen2005.r","Smoking current","FAS diagnosis",169,0.370831661622369,NA,NA
-"218","Viljoen2005.r","Current tobacco use","FAS diagnosis",99,NA,0.7811662430693,52
-"219","Viljoen2005.r","Smoking during","FAS diagnosis",169,0.457685587240072,NA,NA
-"220","Viljoen2005.r","Smoking during same or more","FAS diagnosis",169,0.479903735960813,NA,NA
-"221","Viljoen2005.r","Current drinking","FAS diagnosis",109,NA,0.885496183206107,53
-"222","Viljoen2005.r","Current drinking weekends","FAS diagnosis",109,NA,0.918918918918919,53
-"223","Viljoen2005.r","Drinking before","FAS diagnosis",169,0.619439590382081,NA,NA
-"224","Viljoen2005.r","Alcohol consumption: during","FAS diagnosis",169,0.683614781316994,NA,NA
-"225","Viljoen2005.r","Alcohol consumption: during first trimester","FAS diagnosis",169,0.685358361270434,NA,NA
-"226","Viljoen2005.r","Alcohol consumption: during second trimester","FAS diagnosis",169,0.756510142750536,NA,NA
-"227","Viljoen2005.r","Alcohol consumption: during third trimester","FAS diagnosis",169,0.724788280057087,NA,NA
-"228","Viljoen2005.r","Current tobacco use","FAS diagnosis",99,NA,0.7811662430693,52
-"229","Viljoen2005.r","Current drinking","FAS diagnosis",109,NA,0.885496183206107,53
-"230","Viljoen2005.r","Current drinking weekends","FAS diagnosis",109,NA,0.918918918918919,53
+"","study","variable1","variable2","n1","v"
+"1","Cannon2012.r","Alcoholism","FAS diagnosis",3894925,0.0131263748088644
+"2","Cannon2012.r","Drinks during a sitting","FAS diagnosis",3895227,0.0362372625701432
+"3","Cannon2012.r","Frequency during","FAS diagnosis",3895227,0.0341684157263176
+"4","Ceccanti2014.r","Binge during","FASD diagnosis",147.00001,0.194892278025886
+"5","Ceccanti2014.r","Binge current","FASD diagnosis",147,0.0636637017555156
+"6","Coyne2008.r","Smoking before","FAS diagnosis",28.087,0.439404484798171
+"7","Coyne2008.r","Drinking before a week","FAS diagnosis",85.956,0.474145558752333
+"8","Coyne2008.r","Smoking during","FAS diagnosis",34.133,0.765604833899576
+"9","Coyne2008.r","Alcohol consumption: during a week","FAS diagnosis",91.95301,0.548435089175569
+"10","Davies2011.r","Alcohol consumption: during","FASD diagnosis",75,0.656739821698036
+"11","Leary2010b.r","Drinking before","ARBD diagnosis",1137.364,0.282425726603796
+"12","Leary2010b.r","Alcohol consumption: during first trimester","ARBD diagnosis",1237.30802,0.319406595300409
+"13","Leary2010b.r","Alcohol consumption: during late pregnancy","ARBD diagnosis",1563.30502,0.255376540522116
+"14","May2000.r","Drinking before","FAS diagnosis",88,0.410859342209236
+"15","May2000.r","Alcohol consumption: during first trimester","FAS diagnosis",87.954,0.439175397853023
+"16","May2000.r","Alcohol consumption: during second trimester","FAS diagnosis",88,0.494743612313359
+"17","May2000.r","Alcohol consumption: during third trimester","FAS diagnosis",88,0.513344212153966
+"18","May2000.r","Smoking during","FAS diagnosis",88,0.445603237646661
+"19","May2005.r","Consumes alcohol: current","FAS diagnosis",162,0.473167456932968
+"20","May2005.r","Smoking current","FAS diagnosis",162,0.341440640037828
+"21","May2005.r","Binge current","FAS diagnosis",162,0.681678756006869
+"22","May2005.r","Drinking before","FAS diagnosis",162.05601,0.580192790692182
+"23","May2005.r","Smoking before","FAS diagnosis",162.00002,0.485639093924401
+"24","May2005.r","Smoking during","FAS diagnosis",162,0.426197389471923
+"25","May2005.r","Alcohol consumption: during first trimester","FAS diagnosis",162.00001,0.700348728458297
+"26","May2005.r","Smoking during first trimester","FAS diagnosis",162.00001,0.498417896803748
+"27","May2005.r","Alcohol consumption: during second trimester","FAS diagnosis",162.00001,0.76969367999733
+"28","May2005.r","Smoking during second trimester","FAS diagnosis",162.00001,0.531581669007333
+"29","May2005.r","Alcohol consumption: during third trimester","FAS diagnosis",162.109,0.80778880933593
+"30","May2005.r","Smoking during third trimester","FAS diagnosis",161.94701,0.550472031752116
+"31","May2005.r","Current drinker and smoker","FAS diagnosis",162,0.629643064706374
+"32","May2005.r","Alcohol abuse","FAS diagnosis",162,0.0620648577268083
+"33","May2007a.r","Consumes alcohol: current","FASD diagnosis",194,0.326818284979702
+"34","May2007a.r","Smoking current","FASD diagnosis",194,0.373520304212243
+"35","May2007a.r","Smoking during","FASD diagnosis",194,0.450388215648367
+"36","May2007a.r","Drinking before","FASD diagnosis",194,0.620822619403098
+"37","May2007a.r","Alcohol consumption: during","FASD diagnosis",194,0.663595857021846
+"38","May2007a.r","Alcohol consumption: during first trimester","FASD diagnosis",194,0.658249552039728
+"39","May2007a.r","Alcohol consumption: during second trimester","FASD diagnosis",194,0.643174563667119
+"40","May2007a.r","Alcohol consumption: during third trimester","FASD diagnosis",194,0.61339942288045
+"41","May2008a.r","Consumes alcohol: current","FAS diagnosis",182,0.359632909175716
+"42","May2008a.r","Binge current a week","FAS diagnosis",182,0.254731481356831
+"43","May2008a.r","Percent drinks current a weekend","FAS diagnosis",182.00001,0.303013976847532
+"44","May2008a.r","Drinking before","FAS diagnosis",265.098,0.574184071720999
+"45","May2008a.r","Smoking before","FAS diagnosis",182,0.452467198474239
+"46","May2008a.r","Smoking during","FAS diagnosis",182,0.430365625429281
+"47","May2008a.r","Smoking and drinking during","FAS diagnosis",182,0.565740208775858
+"48","May2008a.r","Alcohol consumption: during first trimester","FAS diagnosis",183.00001,0.688972955101458
+"49","May2008a.r","Smoking during first trimester","FAS diagnosis",180.138,0.503658922908326
+"50","May2008a.r","Alcohol consumption: during second trimester","FAS diagnosis",318.73201,0.570903316195593
+"51","May2008a.r","Alcohol consumption: during third trimester","FAS diagnosis",185,0.661878664937256
+"52","May2008a.r","Smoking during third trimester","FAS diagnosis",181.33501,0.510846232251178
+"53","May2008a.r","Binge during","FAS diagnosis",74,0.332793614211372
+"54","May2008a.r","Consumes alcohol: current","pFAS diagnosis",148,0.133392665678776
+"55","May2008a.r","Binge current a week","pFAS diagnosis",148,0.209783847641166
+"56","May2008a.r","Percent drinks current a weekend","pFAS diagnosis",148.00001,0.191477120507124
+"57","May2008a.r","Drinking before","pFAS diagnosis",197.10601,0.385194453137847
+"58","May2008a.r","Smoking before","pFAS diagnosis",148.015,0.26977438382451
+"59","May2008a.r","Smoking during","pFAS diagnosis",148,0.286464213358216
+"60","May2008a.r","Smoking and drinking during","pFAS diagnosis",148,0.445956255721815
+"61","May2008a.r","Alcohol consumption: during first trimester","pFAS diagnosis",149.01501,0.509459545979243
+"62","May2008a.r","Smoking during first trimester","pFAS diagnosis",146.13802,0.497230951179349
+"63","May2008a.r","Alcohol consumption: during second trimester","pFAS diagnosis",281.73201,0.469955353476649
+"64","May2008a.r","Alcohol consumption: during third trimester","pFAS diagnosis",147.986,0.46240888820153
+"65","May2008a.r","Smoking during third trimester","pFAS diagnosis",147.33502,0.481400710879101
+"66","May2008a.r","Binge during","pFAS diagnosis",42,0.201036893076418
+"67","May2011b.r","Alcohol consumption: during","FAS diagnosis",120,0.0507813330209588
+"68","May2011b.r","Alcohol consumption: during","pFAS diagnosis",8,NA
+"69","May2011b.r","Alcohol consumption: during","FASD diagnosis",8,NA
+"70","May2011b.r","Smoking current","FASD diagnosis",108,0.205213256586637
+"71","May2011b.r","Smoking before","FASD diagnosis",108,0.0269194452280329
+"72","May2011b.r","Smoking during","FASD diagnosis",108,0.0294260308210201
+"73","May2011b.r","Consumes alcohol: current","FASD diagnosis",108,0.0967990990647108
+"74","May2011b.r","Alcohol consumption: during first trimester","FASD diagnosis",108,0.151001367211891
+"75","May2011b.r","Alcohol consumption: during second trimester","FASD diagnosis",108,0.234642308865027
+"76","May2011b.r","Alcohol consumption: during third trimester","FASD diagnosis",108,0.205336684549722
+"77","May2014.r","Binge current 3+","FASD diagnosis",110,0.0830086489141866
+"78","May2014.r","Binge current 5+","FASD diagnosis",110,0.133926088477598
+"79","May2014a.r","Smoking during","FASD diagnosis",128,0.403637055980499
+"80","May2014a.r","Smoking and drinking during","FASD diagnosis",128,0.521583394249738
+"81","May2014a.r","Smoking and binge 3+ during","FASD diagnosis",128,0.542817007414291
+"82","May2014a.r","Smoking and binge 5+ during","FASD diagnosis",128,0.525571583132752
+"83","May2014a.r","Consumes alcohol: current","FASD diagnosis",128,0.466630923882269
+"84","May2014a.r","Binge current","FASD diagnosis",128,0.835231686583424
+"85","May2014a.r","Alcohol consumption: during first trimester","FASD diagnosis",128,0.648000221969336
+"86","May2014a.r","Alcohol consumption: during second trimester","FASD diagnosis",128,0.725101257724302
+"87","May2014a.r","Alcohol consumption: during third trimester","FASD diagnosis",128,0.733698778298328
+"88","May2014a.r","Binge during 3+","FASD diagnosis",128,0.604432365751657
+"89","May2014a.r","Binge during 5+","FASD diagnosis",128,0.562963193341127
+"90","Miller1995.r","Smoking during","FAS diagnosis",214521.44,0.0167030514607676
+"91","Miller1995.r","Alcohol consumption: during a week","FAS diagnosis",214521.44,0.0167030514607676
+"92","Petkovic2013a.r","Current alcohol consumption","FAS, pFAS diagnosis",549.837,0.0619343069152743
+"93","Petkovic2013a.r","Alcohol consumption: during","FAS, pFAS diagnosis",640.664,0.105472772593237
+"94","Petkovic2013a.r","Smoking during","FAS, pFAS diagnosis",651.742,0.036709738609753
+"95","Petkovic2013a.r","Alcohol consumption: during first trimester","FAS, pFAS diagnosis",21.00002,0.00284789683533496
+"96","Petkovic2013a.r","Alcohol consumption: during second trimester","FAS, pFAS diagnosis",6.00002,0.0100822635735613
+"97","Petkovic2013a.r","Alcohol consumption: during third trimester","FAS, pFAS diagnosis",9,0.175267093155314
+"98","Petkovic2013a.r","Alcohol consumption: during entire pregnancy","FAS, pFAS diagnosis",22,0.0612587416371435
+"99","Urban2008.r","Current alcohol consumption","FAS, pFAS diagnosis",135,0.517379328788599
+"100","Urban2008.r","Smoking current","FAS, pFAS diagnosis",146,0.404263264899459
+"101","Urban2008.r","Smoking during","FAS, pFAS diagnosis",117,0.416237031618222
+"102","Urban2008.r","Alcohol consumption: during","FAS, pFAS diagnosis",168,0.625392042940484
+"103","Viljoen2002.r","Consumes alcohol: current","FAS diagnosis",62,0.36640466030863
+"104","Viljoen2002.r","Current alcohol consumption weekends","FAS diagnosis",9.486,0.0799344103683672
+"105","Viljoen2002.r","Percentage on weekends","FAS diagnosis",62,0.532279522121313
+"106","Viljoen2002.r","Smoking current","FAS diagnosis",62,0.375106073989499
+"107","Viljoen2002.r","Smoking during","FAS diagnosis",62,0.404505775016527
+"108","Viljoen2002.r","Drinking before","FAS diagnosis",62.031,0.476367284622471
+"109","Viljoen2002.r","Alcohol consumption: during first trimester","FAS diagnosis",62.031,0.501801698898057
+"110","Viljoen2002.r","Alcohol consumption: during second trimester","FAS diagnosis",62,0.549293215753707
+"111","Viljoen2002.r","Alcohol consumption: during third trimester","FAS diagnosis",61.969,0.543363345362772
+"112","Viljoen2005.r","Consumes alcohol: current","FAS diagnosis",169,0.469677181456535
+"113","Viljoen2005.r","Smoking current","FAS diagnosis",169,0.370831661622369
+"114","Viljoen2005.r","Smoking during","FAS diagnosis",169,0.457685587240072
+"115","Viljoen2005.r","Smoking during same or more","FAS diagnosis",169,0.479903735960813
+"116","Viljoen2005.r","Drinking before","FAS diagnosis",169,0.619439590382081
+"117","Viljoen2005.r","Alcohol consumption: during","FAS diagnosis",169,0.683614781316994
+"118","Viljoen2005.r","Alcohol consumption: during first trimester","FAS diagnosis",169,0.685358361270434
+"119","Viljoen2005.r","Alcohol consumption: during second trimester","FAS diagnosis",169,0.756510142750536
+"120","Viljoen2005.r","Alcohol consumption: during third trimester","FAS diagnosis",169,0.724788280057087
