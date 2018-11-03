@@ -35,3 +35,10 @@ vignettes/*.pdf
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
 .Rproj.user
+
+# Manuscript files
+*.docx
+*.pdf
+
+# Exclusing preprint
+!roozen-peters-kok-townend-nijhuis-koek-curfs--systematic-literature-review-on-maternal-alcohol-behaviors-and-fasd.pdf
